@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">സ്മാർട്ട് കോൺടാക്റ്റ്സ്</string>
+    <string name="search_contacts">കോൺടാക്റ്റുകൾ തിരയുക</string>
+    <string name="voice_search">വോയ്‌സ് സെർച്ച്</string>
+    <string name="search_icon">സെർച്ച് ഐക്കൺ</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">കോൺടാക്റ്റുകൾ</string>
+    <string name="nav_favorites">പ്രിയപ്പെട്ടവ</string>
+    <string name="nav_history">ചരിത്രം</string>
+
+    <!-- Settings -->
+    <string name="settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="blocked_numbers">ബ്ലോക്ക് ചെയ്ത നമ്പറുകൾ</string>
+    <string name="manage_blocked_contacts">ബ്ലോക്ക് ചെയ്ത കോൺടാക്റ്റുകൾ നിയന്ത്രിക്കുക</string>
+    <string name="theme_appearance">തീം ദൃശ്യരൂപം</string>
+    <string name="change_app_theme">ആപ്പ് തീം മാറ്റുക</string>
+    <string name="ai_spam_detection">AI സ്പാം കണ്ടെത്തൽ</string>
+    <string name="smart_detection_subtitle">അജ്ഞാത വിളികളെ തിരിച്ചറിയാൻ സ്മാർട്ട് ഡിറ്റക്ഷൻ</string>
+    <string name="about_app">ആപ്പിനെക്കുറിച്ച്</string>
+    <string name="version_info_subtitle">വേർഷൻ വിവരങ്ങളും ഡെവലപ്പറും</string>
+    <string name="app_language">ആപ്പ് ഭാഷ</string>
+    <string name="select_language_subtitle">നിങ്ങളുടെ താൽപ്പര്യമുള്ള ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">തീം തിരഞ്ഞെടുക്കുക</string>
+    <string name="choose_app_language">ആപ്പ് ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+    <string name="theme_light">ലൈറ്റ്</string>
+    <string name="theme_dark">ഡാർക്ക്</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="apply">പ്രയോഗിക്കുക</string>
+    <string name="block">ബ്ലോക്ക് ചെയ്യുക</string>
+    <string name="help_feedback">സഹായവും അഭിപ്രായങ്ങളും</string>
+    <string name="help_feedback_subtitle">ചോദ്യങ്ങൾ, അഭിപ്രായങ്ങൾ, പിന്തുണ</string>
+    <string name="about">കുറിച്ച്</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾ (FAQ)</string>
+    <string name="send_feedback">അഭിപ്രായം അറിയിക്കുക</string>
+    <string name="contact_support">പിന്തുണയ്ക്കായി ബന്ധപ്പെടുക</string>
+    <string name="rate_app">ആപ്പിന് റേറ്റിംഗ് നൽകുക</string>
+    <string name="no_email_app_title">ഇമെയിൽ ആപ്പ് ലഭ്യമല്ല</string>
+    <string name="no_email_app_msg">ഈ ഉപകരണത്തിൽ ഇമെയിൽ ആപ്ലിക്കേഷൻ ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല.</string>
+    <string name="rate_app_title">ആപ്പിന് റേറ്റിംഗ് നൽകുക</string>
+    <string name="rate_app_msg">സ്മാർട്ട് കോൺടാക്റ്റ്സ് ആപ്ലിക്കേഷൻ ഇതുവരെ ഗൂഗിൾ പ്ലേ സ്റ്റോറിൽ ലഭ്യമായിട്ടില്ല.</string>
+    <string name="feedback_subject">അഭിപ്രായം - സ്മാർട്ട് കോൺടാക്റ്റ്സ് ആപ്പ്</string>
+    <string name="support_subject">സ്മാർട്ട് കോൺടാക്റ്റ്സ് - പിന്തുണ അഭ്യർത്ഥന</string>
+    <string name="feedback_body_template">ഹലോ,\n\nസ്മാർട്ട് കോൺടാക്റ്റ്സ് ആപ്ലിക്കേഷനെക്കുറിച്ച് എനിക്ക് താഴെ പറയുന്ന അഭിപ്രായം പങ്കുവെക്കാനുണ്ട്:\n\n----------------------------------------\n\nഉപകരണം: %1$s\n\nആൻഡ്രോയിഡ് വേർഷൻ: %2$s\n\nആപ്പ് വേർഷൻ: %3$s\n\nഅഭിപ്രായം:\n\n----------------------------------------</string>
+    <string name="support_body_template">ഹലോ സപ്പോർട്ട് ടീം,\n\nസ്മാർട്ട് കോൺടാക്റ്റ്സ് ആപ്ലിക്കേഷനുമായി ബന്ധപ്പെട്ട് എനിക്ക് സഹായം ആവശ്യമാണ്.\n\nപ്രശ്നത്തിന്റെ വിവരണം:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. എങ്ങനെ ഒരു പുതിയ കോൺടാക്റ്റ് ചേർക്കാം?</string>
+    <string name="a1">ഡയൽ പാഡ് തുറന്ന് \"Add Contact\" ബട്ടണിൽ അമർത്തുക, അല്ലെങ്കിൽ കോൺടാക്റ്റ് സ്ക്രീനിലെ \"+\" ബട്ടൺ ഉപയോഗിക്കുക.</string>
+    <string name="q2">Q2. എങ്ങനെ ഒരു കോൺടാക്റ്റ് എഡിറ്റ് ചെയ്യാം?</string>
+    <string name="a2">കോൺടാക്റ്റ് തുറന്ന് എഡിറ്റ് ഐക്കണിൽ അമർത്തുക, വിവരങ്ങൾ പുതുക്കിയ ശേഷം \"Update\" അമർത്തുക.</string>
+    <string name="q3">Q3. എങ്ങനെ ഒരു കോൺടാക്റ്റ് ഡിലീറ്റ് ചെയ്യാം?</string>
+    <string name="a3">കോൺടാക്റ്റ് തുറന്ന് മുകളിലെ മൂന്ന് കുത്തുകളിൽ അമർത്തി \"Delete Contact\" തിരഞ്ഞെടുക്കുക.</string>
+    <string name="q4">Q4. എങ്ങനെ ഒരു കോൺടാക്റ്റ് പ്രിയപ്പെട്ടവയിൽ (Favorites) ചേർക്കാം?</string>
+    <string name="a4">കോൺടാക്റ്റ് വിവരങ്ങൾ തുറന്ന് സ്റ്റാർ ഐക്കണിൽ അമർത്തുക. ആ കോൺടാക്റ്റ് ഉടൻ തന്നെ ഫേവറിറ്റ് സ്ക്രീനിൽ കാണാം.</string>
+    <string name="q5">Q5. പ്രിയപ്പെട്ടവയിൽ നിന്ന് ഒരു കോൺടാക്റ്റ് എങ്ങനെ ഒഴിവാക്കാം?</string>
+    <string name="a5">നിറഞ്ഞ സ്റ്റാർ ഐക്കണിൽ വീണ്ടും അമർത്തുക. അപ്പോൾ അത് ഫേവറിറ്റ് ലിസ്റ്റിൽ നിന്ന് മാറുന്നതാണ്.</string>
+    <string name="q6">Q6. എങ്ങനെ ഒരു കോൺടാക്റ്റ് ബ്ലോക്ക് ചെയ്യാം?</string>
+    <string name="a6">കോൺടാക്റ്റ് വിവരങ്ങൾ തുറന്ന് മൂന്ന് കുത്തുകളിൽ അമർത്തി \"Block Contact\" തിരഞ്ഞെടുക്കുക. ആ കോൺടാക്റ്റ് ബ്ലോക്ക് ലിസ്റ്റിൽ കാണാം.</string>
+    <string name="q7">Q7. എങ്ങനെ ഒരു കോൺടാക്റ്റ് അൺബ്ലോക്ക് ചെയ്യാം?</string>
+    <string name="a7">Settings → Blocked Contacts-ൽ പോയി കോൺടാക്റ്റ് തിരഞ്ഞെടുത്ത് \"Unblock\" അമർത്തുക.</string>
+    <string name="q8">Q8. കോൺടാക്റ്റുകൾ എങ്ങനെ തിരയാം?</string>
+    <string name="a8">കോൺടാക്റ്റുകൾ, ഫേവറിറ്റ്സ് അല്ലെങ്കിൽ ഹിസ്റ്ററി സ്ക്രീനിലെ സെർച്ച് ബാർ ഉപയോഗിക്കുക.</string>
+    <string name="q9">Q9. ആപ്പ് ഭാഷ എങ്ങനെ മാറ്റാം?</string>
+    <string name="a9">Settings → App Language-ൽ പോയി നിങ്ങൾക്ക് ഇഷ്ടപ്പെട്ട ഭാഷ തിരഞ്ഞെടുക്കുക.</string>
+    <string name="q10">Q10. ആപ്പ് തീം എങ്ങനെ മാറ്റാം?</string>
+    <string name="a10">Settings → Theme Appearance-ൽ പോയി ലൈറ്റ് അല്ലെങ്കിൽ ഡാർക്ക് മോഡ് തിരഞ്ഞെടുക്കുക.</string>
+    <string name="q11">Q11. ഞാൻ എഡിറ്റ് ചെയ്ത കോൺടാക്റ്റിൽ മാറ്റങ്ങൾ കാണാത്തത് എന്തുകൊണ്ട്?</string>
+    <string name="a11">കോൺടാക്റ്റ്സ് പെർമിഷൻ നൽകിയിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക, തുടർന്ന് വീണ്ടും അപ്‌ഡേറ്റ് ചെയ്യുക. അപ്‌ഡേറ്റ് വിജയകരമായാൽ ആപ്പ് തനിയെ റിഫ്രഷ് ആകുന്നതാണ്.</string>
+    <string name="q12">Q12. ഈ ആപ്പിന് ഇന്റർനെറ്റ് കണക്ഷൻ ആവശ്യമുണ്ടോ?</string>
+    <string name="a12">ഇല്ല. മിക്ക ഫീച്ചറുകളും ഓഫ്‌ലൈനായി പ്രവർത്തിക്കും. കാരണം ആപ്പ് നിങ്ങളുടെ ഉപകരണത്തിലെ കോൺടാക്റ്റുകളും ലോക്കൽ സ്റ്റോറേജുമാണ് ഉപയോഗിക്കുന്നത്.</string>
+    <string name="q13">Q13. എന്റെ കോൺടാക്റ്റ് വിവരങ്ങൾ ഏതെങ്കിലും സെർവറിലേക്ക് അപ്‌ലോഡ് ചെയ്യപ്പെടുന്നുണ്ടോ?</string>
+    <string name="a13">ഇല്ല. നിങ്ങളുടെ ഗൂഗിൾ അക്കൗണ്ട് വഴി സിങ്ക് ചെയ്യാൻ നിങ്ങൾ തീരുമാനിച്ചാൽ ഒഴികെ, നിങ്ങളുടെ കോൺടാക്റ്റുകൾ നിങ്ങളുടെ ഉപകരണത്തിൽ തന്നെ സുരക്ഷിതമായിരിക്കും.</string>
+    <string name="q14">Q14. എന്തുകൊണ്ടാണ് എനിക്ക് ഈ ആപ്പിനെ ഡിഫോൾട്ട് ഫോൺ ആപ്പായി മാറ്റാൻ കഴിയാത്തത്?</string>
+    <string name="a14">നിങ്ങളുടെ ഉപകരണവും ആൻഡ്രോയിഡ് വേർഷനും അനുസരിച്ച് ആൻഡ്രോയിഡ് ഈ ഓപ്ഷൻ നിയന്ത്രിച്ചേക്കാം. ഡിഫോൾട്ട് ആപ്പായി മാറ്റാതെയും നിങ്ങൾക്ക് ഈ ആപ്പ് ഉപയോഗിക്കാം.</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">കോൺടാക്റ്റുകൾ, പ്രിയപ്പെട്ട കോൺടാക്റ്റുകൾ, കോൾ ഹിസ്റ്ററി, ബ്ലോക്ക് ചെയ്ത നമ്പറുകൾ, കമ്മ്യൂണിക്കേഷൻ സെറ്റിംഗുകൾ എന്നിവ എളുപ്പത്തിൽ കൈകാര്യം ചെയ്യാൻ സഹായിക്കുന്ന ഒരു ആധുനിക ആൻഡ്രോയിഡ് കോൺടാക്റ്റ് മാനേജ്‌മെന്റ് ആപ്ലിക്കേഷനാണ് സ്മാർട്ട് കോൺടാക്റ്റ്സ്.\n\nതാഴെ പറയുന്ന ഫീച്ചറുകളോടു കൂടിയ മനോഹരമായ മെറ്റീരിയൽ ഡിസൈൻ ഇന്റർഫേസ് ഈ ആപ്പ് നൽകുന്നു:\n\n• കോൺടാക്റ്റ് മാനേജ്‌മെന്റ്\n• ഫേവറിറ്റ്സ്\n• കോൾ ഹിസ്റ്ററി\n• ഡയൽ പാഡ്\n• കോൺടാക്റ്റ് എഡിറ്റിംഗ്\n• ബ്ലോക്ക് ചെയ്ത കോൺടാക്റ്റുകൾ\n• തീം സപ്പോർട്ട്\n• ആപ്പ് ലാാംഗ്വേജ് സപ്പോർട്ട്\n• AI സ്പാം ഡിറ്റക്ഷൻ\n• സുരക്ഷിതമായ കോൺടാക്റ്റ് മാനേജ്‌മെന്റ്</string>
+    <string name="developer_label">ഡെവലപ്പർ</string>
+    <string name="developer_name">രിതിഷ്</string>
+    <string name="contact_label">ബന്ധപ്പെടുക</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">സ്വകാര്യതാ നയം</string>
+    <string name="privacy_policy_content">നിങ്ങളുടെ സ്വകാര്യത ഞങ്ങൾക്ക് വളരെ പ്രധാനമാണ്. ഞങ്ങളുടെ ആപ്ലിക്കേഷനിലുടനീളം നിങ്ങളിൽ നിന്ന് ഞങ്ങൾ ശേഖരിച്ചേക്കാവുന്ന ഏതൊരു വിവരത്തെയും സംബന്ധിച്ച് നിങ്ങളുടെ സ്വകാര്യതയെ മാനിക്കുക എന്നത് സ്മാർട്ട് കോൺടാക്റ്റുകളുടെ നയമാണ്.\n\nനിങ്ങൾക്ക് ഒരു സേവനം നൽകുന്നതിന് ഞങ്ങൾക്ക് അത്യാവശ്യമായി വരുമ്പോൾ മാത്രമേ ഞങ്ങൾ വ്യക്തിഗത വിവരങ്ങൾ ചോദിക്കൂ. നിങ്ങളുടെ അറിവോടും സമ്മതത്തോടും കൂടി ന്യായവും നിയമപരവുമായ മാർഗങ്ങളിലൂടെയാണ് ഞങ്ങൾ ഇത് ശേഖരിക്കുന്നത്.\n\nനിയമപ്രകാരം ആവശ്യമുള്ളപ്പോഴൊഴികെ, വ്യക്തിപരമായി തിരിച്ചറിയാൻ കഴിയുന്ന വിവരങ്ങളൊന്നും ഞങ്ങൾ പരസ്യമായോ മൂന്നാം കക്ഷികളുമായോ പങ്കിടില്ല.\n\nഞങ്ങളുടെ ആപ്പ് ഞങ്ങൾ പ്രവർത്തിപ്പിക്കാത്ത ബാഹ്യ സൈറ്റുകളിലേക്ക് ലിങ്ക് ചെയ്തേക്കാം. ഈ സൈറ്റുകളുടെ ഉള്ളടക്കത്തിലും രീതികളിലും ഞങ്ങൾക്ക് യാതൊരു നിയന്ത്രണവുമില്ലെന്നും അവരുടെ സ്വകാര്യതാ നയങ്ങൾക്ക് ഉത്തരവാദിത്തം ഏറ്റെടുക്കാൻ കഴിയില്ലെന്നും ദയവായി ശ്രദ്ധിക്കുക.</string>
+    <string name="terms_conditions">വ്യവസ്ഥകളും നിബന്ധനകളും</string>
+    <string name="licenses">ലൈസൻസുകൾ</string>
+    <string name="no_email_app">ഇമെയിൽ ആപ്ലിക്കേഷൻ ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല.</string>
+    <string name="app_not_published">ആപ്പ് ഇതുവരെ ഗൂഗിൾ പ്ലേയിൽ പ്രസിദ്ധീകരിച്ചിട്ടില്ല.</string>
+
+    <!-- Others -->
+    <string name="phone">ഫോൺ</string>
+    <string name="search_recent_calls">സമീപകാല കോളുകൾ തിരയുക</string>
+    <string name="analyze_number">നമ്പർ വിശകലനം ചെയ്യുക</string>
+    <string name="enter_number_ai">സ്മാർട്ട് AI ഉപയോഗിച്ച് വിശകലനം ചെയ്യാൻ ഒരു നമ്പർ നൽകുക</string>
+    <string name="version">വേർഷൻ 1.0</string>
+    <string name="about_description">AI ഫീച്ചറുകളുള്ള പ്രൊഫഷണൽ കോൺടാക്റ്റ് മാനേജ്‌മെന്റ്.</string>
+</resources>

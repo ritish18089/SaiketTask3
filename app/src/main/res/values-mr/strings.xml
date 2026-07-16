@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">स्मार्ट कॉन्टॅक्ट्स</string>
+    <string name="search_contacts">संपर्क शोधा</string>
+    <string name="voice_search">व्हॉइस सर्च</string>
+    <string name="search_icon">सर्च आयकॉन</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">संपर्क</string>
+    <string name="nav_favorites">आवडते</string>
+    <string name="nav_history">इतिहास</string>
+
+    <!-- Settings -->
+    <string name="settings">सेटिंग्ज</string>
+    <string name="blocked_numbers">ब्लॉक केलेले नंबर</string>
+    <string name="manage_blocked_contacts">तुमचे ब्लॉक केलेले संपर्क व्यवस्थापित करा</string>
+    <string name="theme_appearance">थीम स्वरूप</string>
+    <string name="change_app_theme">अॅप थीम बदला</string>
+    <string name="ai_spam_detection">AI स्पॅम डिटेक्शन</string>
+    <string name="smart_detection_subtitle">अज्ञात कॉलर्ससाठी स्मार्ट ओळख</string>
+    <string name="about_app">अॅपबद्दल</string>
+    <string name="version_info_subtitle">आवृत्ती माहिती आणि डेवलपर</string>
+    <string name="app_language">अॅपची भाषा</string>
+    <string name="select_language_subtitle">तुमची पसंतीची भाषा निवडा</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">थीम निवडा</string>
+    <string name="choose_app_language">अॅपची भाषा निवडा</string>
+    <string name="theme_light">लाइट</string>
+    <string name="theme_dark">डार्क</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="apply">लागू करा</string>
+    <string name="block">ब्लॉक करा</string>
+    <string name="help_feedback">मदत आणि अभिप्राय</string>
+    <string name="help_feedback_subtitle">प्रश्न, अभिप्राय, समर्थन</string>
+    <string name="about">बद्दल</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">सतत विचारले जाणारे प्रश्न (FAQ)</string>
+    <string name="send_feedback">अभिप्राय पाठवा</string>
+    <string name="contact_support">समर्थनासाठी संपर्क साधा</string>
+    <string name="rate_app">अॅपला रेट करा</string>
+    <string name="no_email_app_title">ईमेल अॅप नाही</string>
+    <string name="no_email_app_msg">या डिव्हाइसवर कोणतेही ईमेल अॅप्लिकेशन इंस्टॉल केलेले नाही.</string>
+    <string name="rate_app_title">अॅपला रेट करा</string>
+    <string name="rate_app_msg">स्मार्ट कॉन्टॅक्ट्स अॅप्लिकेशन अद्याप गुगल प्ले स्टोअरवर उपलब्ध नाही.</string>
+    <string name="feedback_subject">अभिप्राय - स्मार्ट कॉन्टॅक्ट्स अॅप</string>
+    <string name="support_subject">स्मार्ट कॉन्टॅक्ट्स - समर्थन विनंती</string>
+    <string name="feedback_body_template">नमस्कार,\n\nमला स्मार्ट कॉन्टॅक्ट्स अॅप्लिकेशनबद्दल खालील अभिप्राय सामायिक करायचा आहे:\n\n----------------------------------------\n\nडिव्हाइस: %1$s\n\nअँड्रॉइड आवृत्ती: %2$s\n\nअॅप आवृत्ती: %3$s\n\nअभिप्राय:\n\n----------------------------------------</string>
+    <string name="support_body_template">नमस्कार समर्थन टीम,\n\nमला स्मार्ट कॉन्टॅक्ट्स अॅप्लिकेशन संबंधित मदतीची गरज आहे.\n\nसमस्येचे वर्णन:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. मी नवीन संपर्क कसा जोडू?</string>
+    <string name="a1">डायल पॅड उघडा आणि \"Add Contact\" बटणावर टॅप करा, किंवा संपर्क स्क्रीनवरील \"+\" बटण वापरा.</string>
+    <string name="q2">Q2. मी संपर्क कसा संपादित करू?</string>
+    <string name="a2">संपर्क उघडा, संपादन आयकॉनवर टॅप करा, माहिती अपडेट करा आणि \"Update\" वर टॅप करा.</string>
+    <string name="q3">Q3. मी संपर्क कसा हटवू?</string>
+    <string name="a3">संपर्क उघडा, तीन-बिंदू मेनूवर टॅप करा आणि \"Delete Contact\" निवडा.</string>
+    <string name="q4">Q4. मी आवडत्यामध्ये (Favorites) संपर्क कसा जोडू?</string>
+    <string name="a4">संपर्क तपशील उघडा आणि स्टार आयकॉनवर टॅप करा. संपर्क त्वरित आवडत्या स्क्रीनवर दिसेल.</string>
+    <string name="q5">Q5. मी आवडत्यामधून संपर्क कसा काढू?</string>
+    <string name="a5">भरलेल्या स्टार आयकॉनवर पुन्हा टॅप करा. संपर्क आवडत्यामधून काढला जाईल.</string>
+    <string name="q6">Q6. मी संपर्क कसा ब्लॉक करू?</string>
+    <string name="a6">संपर्क तपशील उघडा, तीन-बिंदू मेनूवर टॅप करा आणि \"Block Contact\" निवडा. संपर्क ब्लॉक केलेल्या संपर्कांच्या सूचीमध्ये दिसेल.</string>
+    <string name="q7">Q7. मी संपर्क अनब्लॉक कसा करू?</string>
+    <string name="a7">Settings → Blocked Contacts वर जा, संपर्क निवडा आणि \"Unblock\" निवडा.</string>
+    <string name="q8">Q8. मी संपर्क कसे शोधू?</string>
+    <string name="a8">संपर्क, आवडते किंवा इतिहास स्क्रीनवरील सर्च बार वापरा.</string>
+    <string name="q9">Q9. मी अॅपची भाषा कशी बदलू?</string>
+    <string name="a9">Settings → App Language वर जा आणि तुमची पसंतीची भाषा निवडा.</string>
+    <string name="q10">Q10. मी अॅप थीम कशी बदलू?</string>
+    <string name="a10">Settings → Theme Appearance वर जा आणि लाइट किंवा डार्क मोड निवडा.</string>
+    <string name="q11">Q11. माझ्या संपादित संपर्कात बदल का दिसत नाहीत?</string>
+    <string name="a11">संपर्क परवानगी दिली असल्याची खात्री करा, नंतर संपर्क पुन्हा अपडेट करा. यशस्वी अपडेटनंतर अॅप आपोआप संपर्क रिफ्रेश करेल.</string>
+    <string name="q12">Q12. या अॅपसाठी इंटरनेट कनेक्शन आवश्यक आहे का?</string>
+    <string name="a12">नाही. बहुतेक फीचर्स पूर्णपणे ऑफलाइन काम करतात कारण अॅप तुमच्या डिव्हाइसचे संपर्क आणि स्थानिक स्टोरेज वापरते.</string>
+    <string name="q13">Q13. माझा संपर्क डेटा कोणत्याही सर्व्हरवर अपलोड केला जातो का?</string>
+    <string name="a13">नाही. जोपर्यंत तुम्ही तुमच्या गुगल खात्याद्वारे ते सिंक करण्याचे निवडत नाही तोपर्यंत तुमचे संपर्क तुमच्या डिव्हाइसवरच राहतात.</string>
+    <string name="q14">Q14. मी हे अॅप माझे डिफॉल्ट फोन अॅप म्हणून सेट का करू शकत नाही?</string>
+    <string name="a14">तुमच्या डिव्हाइस आणि अँड्रॉइड आवृत्तीनुसार अँड्रॉइड हा पर्याय मर्यादित करू शकते. डिफॉल्ट फोन अॅप म्हणून सेट न करताही तुम्ही अॅप वापरू शकता.</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">स्मार्ट कॉन्टॅक्ट्स हे एक आधुनिक अँड्रॉइड संपर्क व्यवस्थापन अॅप्लिकेशन आहे जे वापरकर्त्यांना संपर्क, आवडते संपर्क, कॉल इतिहास, ब्लॉक केलेले संपर्क आणि संप्रेषण सेटिंग्ज सहजपणे व्यवस्थापित करण्यात मदत करण्यासाठी डिझाइन केलेले आहे.\n\nअॅप्लिकेशन खालील वैशिष्ट्यांसह स्वच्छ मटिरियल डिझाइन इंटरफेस प्रदान करते:\n\n• संपर्क व्यवस्थापन\n• आवडते\n• कॉल इतिहास\n• डायल पॅड\n• संपर्क संपादन\n• ब्लॉक केलेले संपर्क\n• थीम समर्थन\n• अॅप भाषा समर्थन\n• AI स्पॅम डिटेक्शन\n• सुरक्षित संपर्क व्यवस्थापन</string>
+    <string name="developer_label">डेवलपर</string>
+    <string name="developer_name">रितीश</string>
+    <string name="contact_label">संपर्क</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">गोपनीयता धोरण</string>
+    <string name="privacy_policy_content">तुमची गोपनीयता आमच्यासाठी महत्त्वाची आहे. आमच्या ॲप्लिकेशनमध्ये तुमच्याकडून आम्ही जी काही माहिती गोळा करू शकतो त्याबाबत तुमच्या गोपनीयतेचा आदर करणे हे स्मार्ट कॉन्टॅक्ट्सचे धोरण आहे.\n\nआम्ही वैयक्तिक माहिती तेव्हाच मागतो जेव्हा आम्हाला खरोखर तुम्हाला सेवा प्रदान करण्यासाठी तिची आवश्यकता असते. आम्ही तुमच्या माहितीने आणि संमतीने न्याय्य आणि कायदेशीर मार्गांनी ती गोळा करतो.\n\nकायद्याने आवश्यक असल्याशिवाय आम्ही कोणतीही वैयक्तिकरित्या ओळखण्यायोग्य माहिती सार्वजनिकपणे किंवा तृतीय पक्षांशी सामायिक करत नाही.\n\nआमचे ॲप बाह्य साइट्सशी लिंक असू शकते ज्या आमच्याद्वारे संचलित नाहीत. कृपया लक्षात ठेवा की या साइट्सच्या सामग्रीवर आणि पद्धतींवर आमचे कोणतेही नियंत्रण नाही आणि आम्ही त्यांच्या संबंधित गोपनीयता धोरणांसाठी जबाबदारी स्वीकारू शकत नाही।</string>
+    <string name="terms_conditions">अटी आणि शर्ती</string>
+    <string name="licenses">परवाने</string>
+    <string name="no_email_app">कोणतेही ईमेल अॅप्लिकेशन इंस्टॉल केलेले नाही.</string>
+    <string name="app_not_published">अॅप अद्याप गुगल प्लेवर प्रकाशित झालेले नाही.</string>
+
+    <!-- Others -->
+    <string name="phone">फोन</string>
+    <string name="search_recent_calls">अलीकडील कॉल शोधा</string>
+    <string name="analyze_number">नंबरचे विश्लेषण करा</string>
+    <string name="enter_number_ai">स्मार्ट AI सह विश्लेषण करण्यासाठी नंबर प्रविष्ट करा</string>
+    <string name="version">आवृत्ती १.०</string>
+    <string name="about_description">AI फीचर्ससह व्यावसायिक संपर्क व्यवस्थापन.</string>
+</resources>

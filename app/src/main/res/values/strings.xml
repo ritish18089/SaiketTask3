@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Smart Contacts</string>
+    <string name="search_contacts">Search Contacts</string>
+    <string name="voice_search">Voice Search</string>
+    <string name="search_icon">Search Icon</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_history">History</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="blocked_numbers">Blocked Numbers</string>
+    <string name="manage_blocked_contacts">Manage your blocked contacts</string>
+    <string name="theme_appearance">Theme Appearance</string>
+    <string name="change_app_theme">Change app theme</string>
+    <string name="ai_spam_detection">AI Spam Detection</string>
+    <string name="smart_detection_subtitle">Smart detection for unknown callers</string>
+    <string name="about_app">About App</string>
+    <string name="version_info_subtitle">Version info and developer</string>
+    <string name="app_language">App Language</string>
+    <string name="select_language_subtitle">Select your preferred language</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">Choose Theme</string>
+    <string name="choose_app_language">Choose App Language</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="block">Block</string>
+    <string name="help_feedback">Help &amp; Feedback</string>
+    <string name="help_feedback_subtitle">FAQs, Feedback, Support</string>
+    <string name="about">About</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">Frequently Asked Questions (FAQ)</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="rate_app">Rate App</string>
+    <string name="no_email_app_title">No Email App</string>
+    <string name="no_email_app_msg">No email application is installed on this device.</string>
+    <string name="rate_app_title">Rate App</string>
+    <string name="rate_app_msg">The Smart Contacts application is not yet available on Google Play Store.</string>
+    <string name="feedback_subject">Feedback - Smart Contacts App</string>
+    <string name="support_subject">Smart Contacts - Support Request</string>
+    <string name="feedback_body_template">Hello,\n\nI would like to share the following feedback about the Smart Contacts application:\n\n----------------------------------------\n\nDevice: %1$s\n\nAndroid Version: %2$s\n\nApp Version: %3$s\n\nFeedback:\n\n----------------------------------------</string>
+    <string name="support_body_template">Hello Support Team,\n\nI need assistance regarding the Smart Contacts application.\n\nIssue Description:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. How do I add a new contact?</string>
+    <string name="a1">Open the Dial Pad and tap the \"Add Contact\" button, or tap the \"+\" button on the Contacts screen.</string>
+    <string name="q2">Q2. How do I edit a contact?</string>
+    <string name="a2">Open the contact, tap the Edit icon, update the information, and tap \"Update\".</string>
+    <string name="q3">Q3. How do I delete a contact?</string>
+    <string name="a3">Open the contact, tap the three-dot menu, and select \"Delete Contact\".</string>
+    <string name="q4">Q4. How do I add a contact to Favorites?</string>
+    <string name="a4">Open the contact details and tap the Star icon. The contact will immediately appear in the Favorites screen.</string>
+    <string name="q5">Q5. How do I remove a contact from Favorites?</string>
+    <string name="a5">Tap the filled Star icon again. The contact will be removed from Favorites.</string>
+    <string name="q6">Q6. How do I block a contact?</string>
+    <string name="a6">Open the contact details, tap the three-dot menu, and choose \"Block Contact\". The contact will appear in the Blocked Contacts list.</string>
+    <string name="q7">Q7. How do I unblock a contact?</string>
+    <string name="a7">Open Settings → Blocked Contacts, select the contact, and choose \"Unblock\".</string>
+    <string name="q8">Q8. How do I search for contacts?</string>
+    <string name="a8">Use the Search Bar on the Contacts, Favorites, or History screen.</string>
+    <string name="q9">Q9. How do I change the app language?</string>
+    <string name="a9">Go to Settings → App Language and choose your preferred language.</string>
+    <string name="q10">Q10. How do I change the app theme?</string>
+    <string name="a10">Go to Settings → Theme Appearance and choose Light or Dark mode.</string>
+    <string name="q11">Q11. Why isn\'t my edited contact showing changes?</string>
+    <string name="a11">Ensure Contacts permission is granted, then update the contact again. The app refreshes the contact automatically after a successful update.</string>
+    <string name="q12">Q12. Does this app require an internet connection?</string>
+    <string name="a12">No. Most features work completely offline because the app uses your device\'s contacts and local storage.</string>
+    <string name="q13">Q13. Is my contact data uploaded to any server?</string>
+    <string name="a13">No. Your contacts remain on your device unless you choose to sync them through your Google account.</string>
+    <string name="q14">Q14. Why can\'t I make this app my default Phone app?</string>
+    <string name="a14">Android may restrict this option depending on your device and Android version. You can still use the app without setting it as the default Phone app.</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">Smart Contacts is a modern Android contact management application designed to help users easily manage contacts, favorite contacts, call history, blocked contacts, and communication settings.\n\nThe application provides a clean Material Design interface with features including:\n\n• Contact Management\n• Favorites\n• Call History\n• Dial Pad\n• Contact Editing\n• Blocked Contacts\n• Theme Support\n• App Language Support\n• AI Spam Detection\n• Secure Contact Management</string>
+    <string name="developer_label">Developer</string>
+    <string name="developer_name">Ritish</string>
+    <string name="contact_label">Contact</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy_content">Your privacy is important to us. It is Smart Contacts\' policy to respect your privacy regarding any information we may collect from you across our application.\n\nWe only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent.\n\nWe don\'t share any personally identifying information publicly or with third-parties, except when required to by law.\n\nOur app may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.</string>
+    <string name="terms_conditions">Terms &amp; Conditions</string>
+    <string name="licenses">Licenses</string>
+    <string name="no_email_app">No email application is installed.</string>
+    <string name="app_not_published">App is not yet published on Google Play.</string>
+
+    <!-- Others -->
+    <string name="phone">Phone</string>
+    <string name="search_recent_calls">Search Recent Calls</string>
+    <string name="analyze_number">Analyze Number</string>
+    <string name="enter_number_ai">Enter a number to analyze with Smart AI</string>
+    <string name="version">Version 1.0</string>
+    <string name="about_description">Professional Contact Management with AI features.</string>
+</resources>

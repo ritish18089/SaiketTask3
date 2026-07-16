@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">ਸਮਾਰਟ ਕੰਟੈਕਟਸ</string>
+    <string name="search_contacts">ਸੰਪਰਕ ਖੋਜੋ</string>
+    <string name="voice_search">ਵੌਇਸ ਸਰਚ</string>
+    <string name="search_icon">ਖੋਜ ਆਈਕਨ</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">ਸੰਪਰਕ</string>
+    <string name="nav_favorites">ਪਸੰਦੀਦਾ</string>
+    <string name="nav_history">ਇਤਿਹਾਸ</string>
+
+    <!-- Settings -->
+    <string name="settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="blocked_numbers">ਬਲੌਕ ਕੀਤੇ ਨੰਬਰ</string>
+    <string name="manage_blocked_contacts">ਆਪਣੇ ਬਲੌਕ ਕੀਤੇ ਸੰਪਰਕਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ</string>
+    <string name="theme_appearance">ਥੀਮ ਦੀ ਦਿੱਖ</string>
+    <string name="change_app_theme">ਐਪ ਥੀਮ ਬਦਲੋ</string>
+    <string name="ai_spam_detection">AI ਸਪੈਮ ਖੋਜ</string>
+    <string name="smart_detection_subtitle">ਅਣਜਾਣ ਕਾਲਰਾਂ ਲਈ ਸਮਾਰਟ ਪਛਾਣ</string>
+    <string name="about_app">ਐਪ ਬਾਰੇ</string>
+    <string name="version_info_subtitle">ਵਰਜਨ ਜਾਣਕਾਰੀ ਅਤੇ ਡਿਵੈਲਪਰ</string>
+    <string name="app_language">ਐਪ ਦੀ ਭਾਸ਼ਾ</string>
+    <string name="select_language_subtitle">ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਚੁਣੋ</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">ਥੀਮ ਚੁਣੋ</string>
+    <string name="choose_app_language">ਐਪ ਦੀ ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="theme_light">ਲਾਈਟ</string>
+    <string name="theme_dark">ਡਾਰਕ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="apply">ਲਾਗੂ ਕਰੋ</string>
+    <string name="block">ਬਲੌਕ ਕਰੋ</string>
+    <string name="help_feedback">ਮਦਦ ਅਤੇ ਫੀਡਬੈਕ</string>
+    <string name="help_feedback_subtitle">ਸਵਾਲ, ਫੀਡਬੈਕ, ਸਹਾਇਤਾ</string>
+    <string name="about">ਬਾਰੇ</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲੇ ਸਵਾਲ (FAQ)</string>
+    <string name="send_feedback">ਫੀਡਬੈਕ ਭੇਜੋ</string>
+    <string name="contact_support">ਸਹਾਇਤਾ ਲਈ ਸੰਪਰਕ ਕਰੋ</string>
+    <string name="rate_app">ਐਪ ਨੂੰ ਰੇਟ ਕਰੋ</string>
+    <string name="no_email_app_title">ਕੋਈ ਈਮੇਲ ਐਪ ਨਹੀਂ</string>
+    <string name="no_email_app_msg">ਇਸ ਡਿਵਾਈਸ ਤੇ ਕੋਈ ਈਮੇਲ ਐਪਲੀਕੇਸ਼ਨ ਇੰਸਟੌਲ ਨਹੀਂ ਹੈ।</string>
+    <string name="rate_app_title">ਐਪ ਨੂੰ ਰੇਟ ਕਰੋ</string>
+    <string name="rate_app_msg">ਸਮਾਰਟ ਕੰਟੈਕਟਸ ਐਪਲੀਕੇਸ਼ਨ ਅਜੇ ਗੂਗਲ ਪਲੇ ਸਟੋਰ ਤੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।</string>
+    <string name="feedback_subject">ਫੀਡਬੈਕ - ਸਮਾਰਟ ਕੰਟੈਕਟਸ ਐਪ</string>
+    <string name="support_subject">ਸਮਾਰਟ ਕੰਟੈਕਟਸ - ਸਹਾਇਤਾ ਬੇਨਤੀ</string>
+    <string name="feedback_body_template">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ,\n\nਮੈਂ ਸਮਾਰਟ ਕੰਟੈਕਟਸ ਐਪਲੀਕੇਸ਼ਨ ਬਾਰੇ ਹੇਠਾਂ ਦਿੱਤੀ ਫੀਡਬੈਕ ਸਾਂਝੀ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹਾਂ:\n\n----------------------------------------\n\nਡਿਵਾਈਸ: %1$s\n\nਐਂਡਰੌਇਡ ਵਰਜਨ: %2$s\n\nਐਪ ਵਰਜਨ: %3$s\n\nਫੀਡਬੈਕ:\n\n----------------------------------------</string>
+    <string name="support_body_template">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਸਹਾਇਤਾ ਟੀਮ,\n\nਮੈਨੂੰ ਸਮਾਰਟ ਕੰਟੈਕਟਸ ਐਪਲੀਕੇਸ਼ਨ ਬਾਰੇ ਸਹਾਇਤਾ ਦੀ ਲੋੜ ਹੈ।\n\nਮੁੱਦੇ ਦਾ ਵੇਰਵਾ:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. ਮੈਂ ਨਵਾਂ ਸੰਪਰਕ ਕਿਵੇਂ ਜੋੜਾਂ?</string>
+    <string name="a1">ਡਾਇਲ ਪੈਡ ਖੋਲ੍ਹੋ ਅਤੇ \"Add Contact\" ਬਟਨ ਤੇ ਟੈਪ ਕਰੋ, ਜਾਂ ਸੰਪਰਕ ਸਕ੍ਰੀਨ ਤੋਂ \"+\" ਬਟਨ ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
+    <string name="q2">Q2. ਮੈਂ ਸੰਪਰਕ ਨੂੰ ਕਿਵੇਂ ਸੋਧਾਂ?</string>
+    <string name="a2">ਸੰਪਰਕ ਖੋਲ੍ਹੋ, ਸੋਧ ਆਈਕਨ ਤੇ ਟੈਪ ਕਰੋ, ਜਾਣਕਾਰੀ ਅਪਡੇਟ ਕਰੋ ਅਤੇ \"Update\" ਤੇ ਟੈਪ ਕਰੋ।</string>
+    <string name="q3">Q3. ਮੈਂ ਸੰਪਰਕ ਨੂੰ ਕਿਵੇਂ ਮਿਟਾਵਾਂ?</string>
+    <string name="a3">ਸੰਪਰਕ ਖੋਲ੍ਹੋ, ਤਿੰਨ-ਬਿੰਦੂ ਮੀਨੂ ਤੇ ਟੈਪ ਕਰੋ ਅਤੇ \"Delete Contact\" ਚੁਣੋ।</string>
+    <string name="q4">Q4. ਮੈਂ ਸੰਪਰਕ ਨੂੰ ਪਸੰਦੀਦਾ (Favorites) ਵਿੱਚ ਕਿਵੇਂ ਜੋੜਾਂ?</string>
+    <string name="a4">ਸੰਪਰਕ ਵੇਰਵੇ ਖੋਲ੍ਹੋ ਅਤੇ ਸਟਾਰ ਆਈਕਨ ਤੇ ਟੈਪ ਕਰੋ। ਸੰਪਰਕ ਤੁਰੰਤ ਪਸੰਦੀਦਾ ਸਕ੍ਰੀਨ ਤੇ ਦਿਖਾਈ ਦੇਵੇਗਾ।</string>
+    <string name="q5">Q5. ਮੈਂ ਪਸੰਦੀਦਾ ਵਿੱਚੋਂ ਸੰਪਰਕ ਨੂੰ ਕਿਵੇਂ ਹਟਾਵਾਂ?</string>
+    <string name="a5">ਭਰੇ ਹੋਏ ਸਟਾਰ ਆਈਕਨ ਤੇ ਦੁਬਾਰਾ ਟੈਪ ਕਰੋ। ਸੰਪਰਕ ਪਸੰਦੀਦਾ ਵਿੱਚੋਂ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।</string>
+    <string name="q6">Q6. ਮੈਂ ਸੰਪਰਕ ਨੂੰ ਕਿਵੇਂ ਬਲੌਕ ਕਰਾਂ?</string>
+    <string name="a6">ਸੰਪਰਕ ਵੇਰਵੇ ਖੋਲ੍ਹੋ, ਤਿੰਨ-ਬਿੰਦੂ ਮੀਨੂ ਤੇ ਟੈਪ ਕਰੋ ਅਤੇ \"Block Contact\" ਚੁਣੋ। ਸੰਪਰਕ ਬਲੌਕ ਕੀਤੇ ਸੰਪਰਕਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਦਿਖਾਈ ਦੇਵੇਗਾ।</string>
+    <string name="q7">Q7. ਮੈਂ ਸੰਪਰਕ ਨੂੰ ਅਨਬਲੌਕ ਕਿਵੇਂ ਕਰਾਂ?</string>
+    <string name="a7">Settings → Blocked Contacts ਤੇ ਜਾਓ, ਸੰਪਰਕ ਚੁਣੋ ਅਤੇ \"Unblock\" ਚੁਣੋ।</string>
+    <string name="q8">Q8. ਮੈਂ ਸੰਪਰਕਾਂ ਦੀ ਖੋਜ ਕਿਵੇਂ ਕਰਾਂ?</string>
+    <string name="a8">ਸੰਪਰਕ, ਪਸੰਦੀਦਾ ਜਾਂ ਇਤਿਹਾਸ ਸਕ੍ਰੀਨ ਤੇ ਖੋਜ ਪੱਟੀ ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
+    <string name="q9">Q9. ਮੈਂ ਐਪ ਦੀ ਭਾਸ਼ਾ ਕਿਵੇਂ ਬਦਲਾਂ?</string>
+    <string name="a9">Settings → App Language ਤੇ ਜਾਓ ਅਤੇ ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਚੁਣੋ।</string>
+    <string name="q10">Q10. ਮੈਂ ਐਪ ਥੀਮ ਕਿਵੇਂ ਬਦਲਾਂ?</string>
+    <string name="a10">Settings → Theme Appearance ਤੇ ਜਾਓ ਅਤੇ ਲਾਈਟ ਜਾਂ ਡਾਰਕ ਮੋਡ ਚੁਣੋ।</string>
+    <string name="q11">Q11. ਮੇਰੇ ਸੋਧੇ ਹੋਏ ਸੰਪਰਕ ਵਿੱਚ ਬਦਲਾਅ ਕਿਉਂ ਨਹੀਂ ਦਿਖਾਈ ਦੇ ਰਹੇ?</string>
+    <string name="a11">ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਸੰਪਰਕ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਗਈ ਹੈ, ਫਿਰ ਸੰਪਰਕ ਨੂੰ ਦੁਬਾਰਾ ਅਪਡੇਟ ਕਰੋ। ਸਫਲ ਅਪਡੇਟ ਤੋਂ ਬਾਅਦ ਐਪ ਆਪਣੇ ਆਪ ਸੰਪਰਕ ਨੂੰ ਰਿਫ੍ਰੈਸ਼ ਕਰੇਗੀ।</string>
+    <string name="q12">Q12. ਕੀ ਇਸ ਐਪ ਲਈ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਦੀ ਲੋੜ ਹੈ?</string>
+    <string name="a12">ਨਹੀਂ। ਜ਼ਿਆਦਾਤਰ ਫੀਚਰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਆਫਲਾਈਨ ਕੰਮ ਕਰਦੇ ਹਨ ਕਿਉਂਕਿ ਐਪ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਦੇ ਸੰਪਰਕਾਂ ਅਤੇ ਸਥਾਨਕ ਸਟੋਰੇਜ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ।</string>
+    <string name="q13">Q13. ਕੀ ਮੇਰਾ ਸੰਪਰਕ ਡੇਟਾ ਕਿਸੇ ਸਰਵਰ ਤੇ ਅਪਲੋਡ ਹੁੰਦਾ ਹੈ?</string>
+    <string name="a13">ਨਹੀਂ। ਤੁਹਾਡੇ ਸੰਪਰਕ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੇ ਹੀ ਰਹਿੰਦੇ ਹਨ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਆਪਣੇ ਗੂਗਲ ਖਾਤੇ ਰਾਹੀਂ ਉਹਨਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਨਹੀਂ ਚੁਣਦੇ।</string>
+    <string name="q14">Q14. ਮੈਂ ਇਸ ਐਪ ਨੂੰ ਆਪਣੀ ਡਿਫੌਲਟ ਫ਼ੋਨ ਐਪ ਵਜੋਂ ਸੈੱਟ ਕਿਉਂ ਨਹੀਂ ਕਰ ਸਕਦਾ?</string>
+    <string name="a14">ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਅਤੇ ਐਂਡਰੌਇਡ ਵਰਜਨ ਦੇ ਆਧਾਰ ਤੇ ਐਂਡਰੌਇਡ ਇਸ ਵਿਕਲਪ ਨੂੰ ਸੀਮਤ ਕਰ ਸਕਦਾ ਹੈ। ਤੁਸੀਂ ਡਿਫੌਲਟ ਫ਼ੋਨ ਐਪ ਵਜੋਂ ਸੈੱਟ ਕੀਤੇ ਬਿਨਾਂ ਵੀ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ।</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">ਸਮਾਰਟ ਕੰਟੈਕਟਸ ਇੱਕ ਆਧੁਨਿਕ ਐਂਡਰੌਇਡ ਸੰਪਰਕ ਪ੍ਰਬੰਧਨ ਐਪਲੀਕੇਸ਼ਨ ਹੈ ਜੋ ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਸੰਪਰਕਾਂ, ਪਸੰਦੀਦਾ ਸੰਪਰਕਾਂ, ਕਾਲ ਇਤਿਹਾਸ, ਬਲੌਕ ਕੀਤੇ ਸੰਪਰਕਾਂ ਅਤੇ ਸੰਚਾਰ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਸਾਨੀ ਨਾਲ ਪ੍ਰਬੰਧਿਤ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ।\n\nਐਪਲੀਕੇਸ਼ਨ ਹੇਠ ਲਿਖੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੇ ਨਾਲ ਇੱਕ ਸਾਫ਼ ਮਟੀਰੀਅਲ ਡਿਜ਼ਾਈਨ ਇੰਟਰਫੇਸ ਪ੍ਰਦਾਨ ਕਰਦੀ ਹੈ:\n\n• ਸੰਪਰਕ ਪ੍ਰਬੰਧਨ\n• ਪਸੰਦੀਦਾ\n• ਕਾਲ ਇਤਿਹਾਸ\n• ਡਾਇਲ ਪੈਡ\n• ਸੰਪਰਕ ਸੰਪਾਦਨ\n• ਬਲੌਕ ਕੀਤੇ ਸੰਪਰਕ\n• ਥੀਮ ਸਪੋਰਟ\n• ਐਪ ਭਾਸ਼ਾ ਸਪੋਰਟ\n• AI ਸਪੈਮ ਖੋਜ\n• ਸੁਰੱਖਿਅਤ ਸੰਪਰਕ ਪ੍ਰਬੰਧਨ</string>
+    <string name="developer_label">ਡਿਵੈਲਪਰ</string>
+    <string name="developer_name">ਰਿਤੀਸ਼</string>
+    <string name="contact_label">ਸੰਪਰਕ</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</string>
+    <string name="privacy_policy_content">ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਸਾਡੇ ਲਈ ਮਹੱਤਵਪූර්ਣ ਹੈ। ਸਾਡੀ ਐਪਲੀਕੇਸ਼ਨ ਵਿੱਚ ਤੁਹਾਡੇ ਤੋਂ ਅਸੀਂ ਜੋ ਵੀ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰ ਸਕਦੇ ਹਾਂ ਉਸਦੇ ਸੰਬੰਧ ਵਿੱਚ ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਦਾ ਸਤਿਕਾਰ ਕਰਨਾ ਸਮਾਰਟ ਕੰਟੈਕਟਸ ਦੀ ਨੀਤੀ ਹੈ।\n\nਅਸੀਂ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਉਦੋਂ ਹੀ ਮੰਗਦੇ ਹਾਂ ਜਦੋਂ ਸਾਨੂੰ ਸੱਚਮੁੱਚ ਤੁਹਾਨੂੰ ਸੇਵਾ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਇਸਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਅਸੀਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਅਤੇ ਸਹਿਮਤੀ ਨਾਲ ਨਿਰਪੱਖ ਅਤੇ ਕਾਨੂੰਨੀ ਤਰੀਕਿਆਂ ਨਾਲ ਇਸਨੂੰ ਇਕੱਠਾ ਕਰਦੇ ਹਾਂ।\n\nਜਦੋਂ ਤੱਕ ਕਾਨੂੰਨ ਦੁਆਰਾ ਲੋੜੀਂਦਾ ਨਾ ਹੋਵੇ, ਅਸੀਂ ਕਿਸੇ ਵੀ ਨਿੱਜੀ ਤੌਰ \'ਤੇ ਪਛਾਣਯੋਗ ਜਾਣਕਾਰੀ ਨੂੰ ਜਨਤਕ ਤੌਰ \'ਤੇ ਜਾਂ ਤੀਜੀ ਧਿਰ ਨਾਲ ਸਾਂਝਾ ਨਹੀਂ ਕਰਦੇ ਹਾਂ।\n\nਸਾਡੀ ਐਪ ਬਾਹਰੀ ਸਾਈਟਾਂ ਨਾਲ ਲਿੰਕ ਹੋ ਸਕਦੀ ਹੈ ਜੋ ਸਾਡੇ ਦੁਆਰਾ ਸੰਚਾਲਿਤ ਨਹੀਂ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਸੁਚੇਤ ਰਹੋ ਕਿ ਇਹਨਾਂ ਸਾਈਟਾਂ ਦੀ ਸਮੱગ્રી ਅਤੇ ਤਰੀਕਿਆਂ \'ਤੇ ਸਾਡਾ ਕੋਈ ਨਿਯੰਤਰਣ ਨਹੀਂ ਹੈ, ਅਤੇ ਅਸੀਂ ਉਹਨਾਂ ਦੀਆਂ ਸੰਬੰਧਿਤ ਗੋਪਨੀਯਤਾ ਨੀਤੀਆਂ ਲਈ ਜ਼ਿੰਮੇਵਾਰੀ ਸਵੀਕਾਰ ਨਹੀਂ ਕਰ ਸਕਦੇ।</string>
+    <string name="terms_conditions">ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</string>
+    <string name="licenses">ਲਾਇਸੰਸ</string>
+    <string name="no_email_app">ਕੋਈ ਈਮੇਲ ਐਪਲੀਕੇਸ਼ਨ ਇੰਸਟੌਲ ਨਹੀਂ ਹੈ।</string>
+    <string name="app_not_published">ਐਪ ਅਜੇ ਗੂਗਲ ਪਲੇ ਤੇ ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਹੋਈ ਹੈ।</string>
+
+    <!-- Others -->
+    <string name="phone">ਫ਼ੋਨ</string>
+    <string name="search_recent_calls">ਤਾਜ਼ਾ ਕਾਲਾਂ ਖੋਜੋ</string>
+    <string name="analyze_number">ਨੰਬਰ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰੋ</string>
+    <string name="enter_number_ai">ਸਮਾਰਟ AI ਨਾਲ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਨ ਲਈ ਨੰਬਰ ਦਰਜ ਕਰੋ</string>
+    <string name="version">ਵਰਜਨ 1.0</string>
+    <string name="about_description">AI ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੇ ਨਾਲ ਪੇਸ਼ੇਵਰ ਸੰਪਰਕ ਪ੍ਰਬੰਧਨ।</string>
+</resources>

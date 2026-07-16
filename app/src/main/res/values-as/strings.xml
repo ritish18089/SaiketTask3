@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">স্মাৰ্ট কন্টাক্টচ</string>
+    <string name="search_contacts">কন্টাক্ট বিচাৰক</string>
+    <string name="voice_search">ভইচ চাৰ্চ</string>
+    <string name="search_icon">চাৰ্চ আইকন</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">কন্টাক্টচ</string>
+    <string name="nav_favorites">প্ৰিয়</string>
+    <string name="nav_history">ইতিহাস</string>
+
+    <!-- Settings -->
+    <string name="settings">ছেটিংচ</string>
+    <string name="blocked_numbers">ব্লক কৰা নম্বৰ</string>
+    <string name="manage_blocked_contacts">আপোনাৰ ব্লক কৰা কন্টাক্টচ পৰিচালনা কৰক</string>
+    <string name="theme_appearance">থিমৰ ৰূপ</string>
+    <string name="change_app_theme">এপৰ থিম সলনি কৰক</string>
+    <string name="ai_spam_detection">AI স্পাম ধৰা পেলোৱা</string>
+    <string name="smart_detection_subtitle">অজ্ঞাত কলৰৰ বাবে স্মাৰ্ট চিনাক্তকৰণ</string>
+    <string name="about_app">এপৰ বিষয়ে</string>
+    <string name="version_info_subtitle">সংস্কৰণ তথ্য আৰু ডেভেলপাৰ</string>
+    <string name="app_language">এপৰ ভাষা</string>
+    <string name="select_language_subtitle">আপোনাৰ পছন্দৰ ভাষা বাছক</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">থিম বাছক</string>
+    <string name="choose_app_language">এপৰ ভাষা বাছক</string>
+    <string name="theme_light">পোহৰ</string>
+    <string name="theme_dark">আন্ধাৰ</string>
+    <string name="cancel">বাতিল কৰক</string>
+    <string name="apply">প্ৰয়োগ কৰক</string>
+    <string name="block">ব্লক কৰক</string>
+    <string name="help_feedback">সহায় আৰু মতামত</string>
+    <string name="help_feedback_subtitle">প্ৰশ্নোত্তৰ, মতামত, সমৰ্থন</string>
+    <string name="about">বিষয়ে</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">সঘনাই সোধা প্ৰশ্ন (FAQ)</string>
+    <string name="send_feedback">মতামত পঠিয়াওক</string>
+    <string name="contact_support">সমৰ্থনৰ বাবে যোগাযোগ কৰক</string>
+    <string name="rate_app">এপটো ৰেট কৰক</string>
+    <string name="no_email_app_title">কোনো ইমেইল এপ নাই</string>
+    <string name="no_email_app_msg">এই ডিভাইচত কোনো ইমেইল এপ্লিকেচন ইনষ্টল কৰা নাই।</string>
+    <string name="rate_app_title">এপটো ৰেট কৰক</string>
+    <string name="rate_app_msg">স্মাৰ্ট কন্টাক্টচ এপ্লিকেচনটো এতিয়াও গুগল প্লে ষ্টোৰত উপলব্ধ নহয়।</string>
+    <string name="feedback_subject">মতামত - স্মাৰ্ট কন্টাক্টচ এপ</string>
+    <string name="support_subject">স্মাৰ্ট কন্টাক্টচ - সমৰ্থনৰ অনুৰোধ</string>
+    <string name="feedback_body_template">নমস্কাৰ,\n\nমই স্মাৰ্ট কন্টাক্টচ এপ্লিকেচনটোৰ বিষয়ে তলত দিয়া মতামত আগবঢ়াব বিচাৰো:\n\n----------------------------------------\n\nডিভাইচ: %1$s\n\nএণ্ড্ৰইড সংস্কৰণ: %2$s\n\nএপ সংস্কৰণ: %3$s\n\nমতামত:\n\n----------------------------------------</string>
+    <string name="support_body_template">নমস্কাৰ সমৰ্থন দল,\n\nমোক স্মাৰ্ট কন্টাক্টচ এপ্লিকেচন সম্পৰ্কীয় সহায় লাগে।\n\nসমস্যাৰ বিৱৰণ:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. মই কেনেকৈ নতুন কন্টাক্ট যোগ কৰিম?</string>
+    <string name="a1">ডায়াল পেডটো খোলক আৰু \"Add Contact\" বুটামত টেব কৰক, অথবা কন্টাক্টচ স্ক্ৰিনৰ পৰা \"+\" বুটামটো ব্যৱহাৰ কৰক।</string>
+    <string name="q2">Q2. মই কেনেকৈ কন্টাক্ট এডিট কৰিম?</string>
+    <string name="a2">কন্টাক্টটো খোলক, এডিট আইকনত টেব কৰক, তথ্য আপডেট কৰক আৰু \"Update\" ত টেব কৰক।</string>
+    <string name="q3">Q3. মই কেনেকৈ কন্টাক্ট ডিলিট কৰিম?</string>
+    <string name="a3">কন্টাক্টটো খোলক, থ্ৰী-ডট মেনুত টেব কৰক আৰু \"Delete Contact\" বাছক।</string>
+    <string name="q4">Q4. মই কেনেকৈ প্ৰিয় (Favorites) তালিকাত কন্টাক্ট যোগ কৰিম?</string>
+    <string name="a4">কন্টাক্টৰ বিৱৰণ খোলক আৰু ষ্টাৰ আইকনত টেব কৰক। কন্টাক্টটো লগে লগে প্ৰিয় স্ক্ৰিনত দেখা দিব।</string>
+    <string name="q5">Q5. মই প্ৰিয় তালিকাৰ পৰা কন্টাক্ট কেনেকৈ আঁতৰাম?</string>
+    <string name="a5">ভৰ্তি হৈ থকা ষ্টাৰ আইকনটোত আকৌ টেব কৰক। কন্টাক্টটো প্ৰিয় তালিকাৰ পৰা আঁতৰি যাব।</string>
+    <string name="q6">Q6. মই কেনেকৈ কন্টাক্ট ব্লক কৰিম?</string>
+    <string name="a6">কন্টাক্টৰ বিৱৰণ খোলক, থ্ৰী-ডট মেনুত টেব কৰক আৰু \"Block Contact\" বাছক। কন্টাক্টটো ব্লক কৰা কন্টাক্টচ তালিকাত দেখা যাব।</string>
+    <string name="q7">Q7. মই কেনেকৈ কন্টাক্ট আনব্লক কৰিম?</string>
+    <string name="a7">Settings → Blocked Contacts লৈ যাওক, কন্টাক্টটো বাছক আৰু \"Unblock\" বাছক।</string>
+    <string name="q8">Q8. মই কন্টাক্টচ কেনেকৈ বিচাৰিম?</string>
+    <string name="a8">কন্টাক্টচ, প্ৰিয় বা ইতিহাস স্ক্ৰিনত থকা চাৰ্চ বাৰটো ব্যৱহাৰ কৰক।</string>
+    <string name="q9">Q9. মই এপৰ ভাষা কেনেকৈ সলনি কৰিম?</string>
+    <string name="a9">Settings → App Language লৈ যাওক আৰু আপোনাৰ পছন্দৰ ভাষা বাছক।</string>
+    <string name="q10">Q10. মই এপৰ থিম কেনেকৈ সলনি কৰিম?</string>
+    <string name="a10">Settings → Theme Appearance লৈ যাওক আৰু লাইট বা ডাৰ্ক মোড বাছক।</string>
+    <string name="q11">Q11. মোৰ এডিট কৰা কন্টাক্টত সলনিবোৰ কিয় দেখা যোৱা নাই?</string>
+    <string name="a11">কন্টাক্টচ অনুমতি দিয়া আছে বুলি নিশ্চিত হওক, তাৰ পিছত কন্টাক্টটো আকৌ আপডেট কৰক। সফল আপডেটৰ পিছত এপে স্বয়ংক্ৰিয়ভাৱে কন্টাক্টটো ৰিফ্ৰেছ কৰিব।</string>
+    <string name="q12">Q12. এই এপটোৰ বাবে ইণ্টাৰনেট সংযোগৰ প্ৰয়োজন নেকি?</string>
+    <string name="a12">নহয়। বেছিভাগ ফিচাৰ সম্পূৰ্ণৰূপে অফলাইনত কাম কৰে কাৰণ এপে আপোনাৰ ডিভাইচৰ কন্টাক্টচ আৰু লোকেল ষ্টোৰেজ ব্যৱহাৰ কৰে।</string>
+    <string name="q13">Q13. মোৰ কন্টাক্ট ডাটা কোনো চাৰ্ভাৰত আপলোড কৰা হয় নেকি?</string>
+    <string name="a13">নহয়। আপুনি আপোনাৰ গুগল একাউণ্টৰ জৰিয়তে সেইবোৰ চিন্ক কৰিবলৈ নিবিচাৰিলে আপোনাৰ কন্টাক্টচ আপোনাৰ ডিভাইচতে থাকে।</string>
+    <string name="q14">Q14. মই এই এপটোক মোৰ ডিফল্ট ফোন এপ হিচাপে কিয় ছেট কৰিব পৰা নাই?</string>
+    <string name="a14">আপোনাৰ ডিভাইচ আৰু এণ্ড্ৰইড সংস্কৰণৰ ওপৰত নিৰ্ভৰ কৰি এণ্ড্ৰইডে এই বিকল্পটো সীমিত কৰিব পাৰে। আপুনি ডিফল্ট ফোন এপ হিচাপে ছেট নকৰাকৈও এপটো ব্যৱহাৰ কৰিব পাৰে।</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">স্মাৰ্ট কন্টাক্টচ হৈছে এটা আধুনিক এণ্ড্ৰইড কন্টাক্ট মেনেজমেণ্ট এপ্লিকেচন যিটো ব্যৱহাৰকাৰীক কন্টাক্টচ, প্ৰিয় কন্টাক্টচ, কল হিষ্ট্ৰী, ব্লক কৰা কন্টাক্টচ আৰু যোগাযোগৰ ছেটিংচ সহজে পৰিচালনা কৰাত সহায় কৰিবলৈ ডিজাইন কৰা হৈছে।\n\nএপ্লিকেচনটোৱে তলত দিয়া ফিচাৰসমূহৰ সৈতে এটা চাফ-চিকুণ মেটেৰিয়েল ডিজাইন ইন্টাৰফেচ আগবঢ়ায়:\n\n• কন্টাক্ট মেনেজমেণ্ট\n• প্ৰিয়\n• কল হিষ্ট্ৰী\n• ডায়াল পেড\n• কন্টাক্ট এডিটিং\n• ব্লক কৰা কন্টাক্টচ\n• থিম সমৰ্থন\n• এপ লেংগুৱেজ সমৰ্থন\n• AI স্পাম ধৰা পেলোৱা\n• সুৰক্ষিত কন্টাক্ট মেনেজমেণ্ট</string>
+    <string name="developer_label">ডেভেলপাৰ</string>
+    <string name="developer_name">ৰিটিশ্ব</string>
+    <string name="contact_label">যোগাযোগ</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="privacy_policy_content">আপোনাৰ গোপনীয়তা আমাৰ বাবে গুৰুত্বপূৰ্ণ। আমাৰ এপ্লিকেচনত আপোনাৰ পৰা আমি সংগ্ৰহ কৰিব পৰা যিকোনো তথ্যৰ ক্ষেত্ৰত আপোনাৰ গোপনীয়তা ৰক্ষা কৰাটো স্মাৰ্ট কন্টাক্টচৰ নীতি।\n\nআপোনাক সেৱা আগবঢ়াবলৈ যেতিয়া আমাৰ সঁচাকৈয়ে প্ৰয়োজন হয় তেতিয়াহে আমি ব্যক্তিগত তথ্য বিচাৰো। আমি আপোনাৰ জ্ঞান আৰু সন্মতিৰে ন্যায্য আৰু আইনী উপায়েৰে এই তথ্য সংগ্ৰহ কৰো।\n\nআইনৰ দ্বাৰা প্ৰয়োজন নহ’লে আমি কোনো ব্যক্তিগতভাৱে চিনাক্ত কৰিব পৰা তথ্য ৰাজহুৱাকৈ বা তৃতীয় পক্ষৰ সৈতে শ্বেয়াৰ নকৰো।\n\nআমাৰ এপটো বাহ্যিক ছাইটৰ সৈতে লিংক হ’ব পাৰে যিবোৰ আমাৰ দ্বাৰা পৰিচালিত নহয়। অনুগ্ৰহ কৰি মন কৰিব যে এই ছাইটবোৰৰ বিষয়বস্তু আৰু পদ্ধতিৰ ওপৰত আমাৰ কোনো নিয়ন্ত্ৰণ নাই, আৰু তেওঁলোকৰ নিজ নিজ গোপনীয়তা নীতিৰ বাবে আমি দায়িত্ব ল’ব নোৱাৰো।</string>
+    <string name="terms_conditions">নিয়ম আৰু চৰ্তসমূহ</string>
+    <string name="licenses">লাইচেন্স</string>
+    <string name="no_email_app">কোনো ইমেইল এপ্লিকেচন ইনষ্টল কৰা নাই।</string>
+    <string name="app_not_published">এপটো এতিয়াও গুগল প্লেত প্ৰকাশ পোৱা নাই।</string>
+
+    <!-- Others -->
+    <string name="phone">ফোন</string>
+    <string name="search_recent_calls">শেহতীয়া কলসমূহ বিচাৰক</string>
+    <string name="analyze_number">নম্বৰ বিশ্লেষণ কৰক</string>
+    <string name="enter_number_ai">স্মাৰ্ট AI ৰ সৈতে বিশ্লেষণ কৰিবলৈ এটা নম্বৰ লিখক</string>
+    <string name="version">সংস্কৰণ ১.০</string>
+    <string name="about_description">AI ফিচাৰৰ সৈতে পেছাদাৰী কন্টাক্ট মেনেজমেণ্ট।</string>
+</resources>

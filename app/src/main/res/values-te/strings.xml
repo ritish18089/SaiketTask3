@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">స్మార్ట్ కాంటాక్ట్స్</string>
+    <string name="search_contacts">కాంటాక్ట్స్ వెతకండి</string>
+    <string name="voice_search">వాయిస్ సెర్చ్</string>
+    <string name="search_icon">సెర్చ్ ఐకాన్</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">కాంటాక్ట్స్</string>
+    <string name="nav_favorites">ఇష్టమైనవి</string>
+    <string name="nav_history">చరిత్ర</string>
+
+    <!-- Settings -->
+    <string name="settings">సెట్టింగ్‌లు</string>
+    <string name="blocked_numbers">బ్లాక్ చేయబడిన నంబర్లు</string>
+    <string name="manage_blocked_contacts">మీ బ్లాక్ చేయబడిన కాంటాక్ట్స్ నిర్వహించండి</string>
+    <string name="theme_appearance">థీమ్ ప్రదర్శన</string>
+    <string name="change_app_theme">యాప్ థీమ్ మార్చండి</string>
+    <string name="ai_spam_detection">AI స్పామ్ గుర్తింపు</string>
+    <string name="smart_detection_subtitle">తెలియని కాలర్‌ల కోసం స్మార్ట్ గుర్తింపు</string>
+    <string name="about_app">యాప్ గురించి</string>
+    <string name="version_info_subtitle">వెర్షన్ సమాచారం మరియు డెవలపర్</string>
+    <string name="app_language">యాప్ భాష</string>
+    <string name="select_language_subtitle">మీకు నచ్చిన భాషను ఎంచుకోండి</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">థీమ్ ఎంచుకోండి</string>
+    <string name="choose_app_language">యాప్ భాషను ఎంచుకోండి</string>
+    <string name="theme_light">లైట్</string>
+    <string name="theme_dark">డార్క్</string>
+    <string name="cancel">రద్దు చేయి</string>
+    <string name="apply">వర్తింపజేయి</string>
+    <string name="block">బ్లాక్ చేయి</string>
+    <string name="help_feedback">సహాయం మరియు అభిప్రాయం</string>
+    <string name="help_feedback_subtitle">ప్రశ్నలు, అభిప్రాయం, మద్దతు</string>
+    <string name="about">గురించి</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">తరచుగా అడిగే ప్రశ్నలు (FAQ)</string>
+    <string name="send_feedback">అభిప్రాయాన్ని పంపండి</string>
+    <string name="contact_support">మద్దతును సంప్రదించండి</string>
+    <string name="rate_app">యాప్‌ను రేట్ చేయండి</string>
+    <string name="no_email_app_title">ఈమెయిల్ యాప్ లేదు</string>
+    <string name="no_email_app_msg">ఈ పరికరంలో ఈమెయిల్ అప్లికేషన్ ఇన్‌స్టాల్ చేయబడలేదు.</string>
+    <string name="rate_app_title">యాప్‌ను రేట్ చేయండి</string>
+    <string name="rate_app_msg">స్మార్ట్ కాంటాక్ట్స్ అప్లికేషన్ ఇంకా గూగుల్ ప్లే స్టోర్‌లో అందుబాటులో లేదు.</string>
+    <string name="feedback_subject">అభిప్రాయం - స్మార్ట్ కాంటాక్ట్స్ యాప్</string>
+    <string name="support_subject">స్మార్ట్ కాంటాక్ట్స్ - మద్దతు అభ్యర్థన</string>
+    <string name="feedback_body_template">హలో,\n\nనేను స్మార్ట్ కాంటాక్ట్స్ అప్లికేషన్ గురించి కింది అభిప్రాయాన్ని పంచుకోవాలనుకుంటున్నాను:\n\n----------------------------------------\n\nపరికరం: %1$s\n\nఆండ్రాయిడ్ వెర్షన్: %2$s\n\nయాప్ వెర్షన్: %3$s\n\nఅభిప్రాయం:\n\n----------------------------------------</string>
+    <string name="support_body_template">హలో మద్దతు బృందం,\n\nనాకు స్మార్ట్ కాంటాక్ట్స్ అప్లికేషన్‌కు సంబంధించి సహాయం కావాలి.\n\nసమస్య వివరణ:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. నేను కొత్త కాంటాక్ట్‌ను ఎలా జోడించాలి?</string>
+    <string name="a1">డయల్ ప్యాడ్ తెరిచి \"Add Contact\" బటన్ నొక్కండి, లేదా కాంటాక్ట్స్ స్క్రీన్‌పై \"+\" బటన్ నొక్కండి.</string>
+    <string name="q2">Q2. నేను కాంటాక్ట్‌ను ఎలా ఎడిట్ చేయాలి?</string>
+    <string name="a2">కాంటాక్ట్‌ను తెరిచి, ఎడిట్ ఐకాన్ నొక్కి, సమాచారాన్ని అప్‌డేట్ చేసి, \"Update\" నొక్కండి.</string>
+    <string name="q3">Q3. నేను కాంటాక్ట్‌ను ఎలా డిలీట్ చేయాలి?</string>
+    <string name="a3">కాంటాక్ట్‌ను తెరిచి, మూడు చుక్కల మెనూ నొక్కి, \"Delete Contact\" ఎంచుకోండి.</string>
+    <string name="q4">Q4. నేను కాంటాక్ట్‌ను ఇష్టమైన వాటికి (Favorites) ఎలా జోడించాలి?</string>
+    <string name="a4">కాంటాక్ట్ వివరాలను తెరిచి స్టార్ ఐకాన్ నొక్కండి. కాంటాక్ట్ వెంటనే ఇష్టమైన స్క్రీన్‌పై కనిపిస్తుంది.</string>
+    <string name="q5">Q5. నేను ఇష్టమైన వాటి నుండి కాంటాక్ట్‌ను ఎలా తీసివేయాలి?</string>
+    <string name="a5">నిండిన స్టార్ ఐకాన్‌ను మళ్లీ నొక్కండి. కాంటాక్ట్ ఇష్టమైన వాటి నుండి తొలగించబడుతుంది.</string>
+    <string name="q6">Q6. నేను కాంటాక్ట్‌ను ఎలా బ్లాక్ చేయాలి?</string>
+    <string name="a6">కాంటాక్ట్ వివరాలను తెరిచి, మూడు చుక్కల మెనూ నొక్కి, \"Block Contact\" ఎంచుకోండి. కాంటాక్ట్ బ్లాక్ చేయబడిన కాంటాక్ట్స్ జాబితాలో కనిపిస్తుంది.</string>
+    <string name="q7">Q7. నేను కాంటాక్ట్‌ను ఎలా అన్‌బ్లాక్ చేయాలి?</string>
+    <string name="a7">Settings → Blocked Contacts కు వెళ్లి, కాంటాక్ట్‌ను ఎంచుకుని, \"Unblock\" ఎంచుకోండి.</string>
+    <string name="q8">Q8. నేను కాంటాక్ట్స్ కోసం ఎలా వెతకాలి?</string>
+    <string name="a8">కాంటాక్ట్స్, ఫేవరెట్స్ లేదా హిస్టరీ స్క్రీన్‌పై ఉన్న సెర్చ్ బార్ ఉపయోగించండి.</string>
+    <string name="q9">Q9. నేను యాప్ భాషను ఎలా మార్చాలి?</string>
+    <string name="a9">Settings → App Language కు వెళ్లి మీకు నచ్చిన భాషను ఎంచుకోండి.</string>
+    <string name="q10">Q10. నేను యాప్ థీమ్‌ను ఎలా మార్చాలి?</string>
+    <string name="a10">Settings → Theme Appearance కు వెళ్లి లైట్ లేదా డార్క్ మోడ్ ఎంచుకోండి.</string>
+    <string name="q11">Q11. నా ఎడిట్ చేసిన కాంటాక్ట్ మార్పులను ఎందుకు చూపడం లేదు?</string>
+    <string name="a11">కాంటాక్ట్స్ పర్మిషన్ అనుమతించబడిందని నిర్ధారించుకోండి, ఆపై కాంటాక్ట్‌ను మళ్లీ అప్‌డేట్ చేయండి. విజయవంతమైన అప్‌డేట్ తర్వాత యాప్ ఆటోమేటిక్‌గా కాంటాక్ట్‌ను రిఫ్రెష్ చేస్తుంది.</string>
+    <string name="q12">Q12. ఈ యాప్‌కు ఇంటర్నెట్ కనెక్షన్ అవసరమా?</string>
+    <string name="a12">లేదు. చాలా ఫీచర్లు పూర్తిగా ఆఫ్‌లైన్‌లో పనిచేస్తాయి ఎందుకంటే యాప్ మీ పరికరం యొక్క కాంటాక్ట్స్ మరియు లోకల్ స్టోరేజ్‌ను ఉపయోగిస్తుంది.</string>
+    <string name="q13">Q13. నా కాంటాక్ట్ డేటా ఏదైనా సర్వర్‌కు అప్‌లోడ్ చేయబడుతుందా?</string>
+    <string name="a13">లేదు. మీరు మీ గూగుల్ ఖాతా ద్వారా వాటిని సింక్ చేయాలని ఎంచుకుంటే తప్ప మీ కాంటాక్ట్స్ మీ పరికరంలోనే ఉంటాయి.</string>
+    <string name="q14">Q14. నేను ఈ యాప్‌ను నా డిఫాల్ట్ ఫోన్ యాప్‌గా ఎందుకు చేయలేకపోతున్నాను?</string>
+    <string name="a14">మీ పరికరం మరియు ఆండ్రాయిడ్ వెర్షన్‌ను బట్టి ఆండ్రాయిడ్ ఈ ఆప్షన్‌ను పరిమితం చేయవచ్చు. మీరు దీనిని డిఫాల్ట్ ఫోన్ యాప్‌గా సెట్ చేయకుండానే ఉపయోగించవచ్చు.</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">స్మార్ట్ కాంటాక్ట్స్ అనేది కాంటాక్ట్స్, ఇష్టమైన కాంటాక్ట్స్, కాల్ హిస్టరీ, బ్లాక్ చేయబడిన కాంటాక్ట్స్ మరియు కమ్యూనికేషన్ సెట్టింగ్‌లను సులభంగా నిర్వహించడానికి వినియోగదారులకు సహాయపడేలా రూపొందించబడిన ఆధునిక ఆండ్రాయిడ్ కాంటాక్ట్ మేనేజ్‌మెంట్ అప్లికేషన్.\n\nఅప్లికేషన్ కింది ఫీచర్లతో కూడిన క్లీన్ మెటీరియల్ డిజైన్ ఇంటర్‌ఫేస్‌ను అందిస్తుంది:\n\n• కాంటాక్ట్ మేనేజ్‌మెంట్\n• ఇష్టమైనవి\n• కాల్ హిస్టరీ\n• డయల్ ప్యాడ్\n• కాంటాక్ట్ ఎడిటింగ్\n• బ్లాక్ చేయబడిన కాంటాక్ట్స్\n• థీమ్ సపోర్ట్\n• యాప్ లాంగ్వేజ్ సపోర్ట్\n• AI స్పామ్ డిటెక్షన్\n• సురక్షిత కాంటాక్ట్ మేనేజ్‌మెంట్</string>
+    <string name="developer_label">డెవలపర్</string>
+    <string name="developer_name">రితిష్</string>
+    <string name="contact_label">సంప్రదించండి</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">గోప్యతా విధానం</string>
+    <string name="privacy_policy_content">మీ గోప్యత మాకు చాలా ముఖ్యం. మా అప్లికేషన్‌లో మీ నుండి మేము సేకరించే ఏదైనా సమాచారానికి సంబంధించి మీ గోప్యతను గౌరవించడం స్మార్ట్ కాంటాక్ట్స్ విధానం. \n\n మీకు సేవను అందించడానికి మాకు నిజంగా అవసరమైనప్పుడు మాత్రమే మేము వ్యక్తిగత సమాచారాన్ని అడుగుతాము. మీ జ్ఞానం మరియు సమ్మతితో మేము దానిని సరైన మరియు చట్టబద్ధమైన మార్గాల ద్వారా సేకరిస్తాము. \n\n చట్టం ప్రకారం అవసరమైతే తప్ప, మేము వ్యక్తిగతంగా గుర్తించదగిన ఏ సమాచారాన్ని బహిరంగంగా లేదా మూడవ పక్షాలతో పంచుకోము. \n\n మా యాప్ మాతో సంబంధం లేని బాహ్య సైట్‌లకు లింక్ చేయబడవచ్చు. దయచేసి ఈ సైట్‌ల కంటెంట్ మరియు పద్ధతులపై మాకు ఎటువంటి నియంత్రణ లేదని గమనించండి మరియు వాటి గోప్యతా విధానాలకు బాధ్యత వహించలేము.</string>
+    <string name="terms_conditions">నిబంధనలు &amp; షరతులు</string>
+    <string name="licenses">లైసెన్సులు</string>
+    <string name="no_email_app">ఈమెయిల్ అప్లికేషన్ ఇన్‌స్టాల్ చేయబడలేదు.</string>
+    <string name="app_not_published">యాప్ ఇంకా గూగుల్ ప్లేలో ప్రచురించబడలేదు.</string>
+
+    <!-- Others -->
+    <string name="phone">ఫోన్</string>
+    <string name="search_recent_calls">ఇటీవలి కాల్స్ వెతకండి</string>
+    <string name="analyze_number">నంబర్ విశ్లేషించండి</string>
+    <string name="enter_number_ai">స్మార్ట్ AI తో విశ్లేషించడానికి నంబర్ ఎంటర్ చేయండి</string>
+    <string name="version">వెర్షన్ 1.0</string>
+    <string name="about_description">AI ఫీచర్లతో ప్రొఫెషనల్ కాంటాక్ట్ మేనేజ్‌మెంట్.</string>
+</resources>

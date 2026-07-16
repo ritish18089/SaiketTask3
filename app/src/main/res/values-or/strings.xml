@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">ସ୍ମାର୍ଟ କଣ୍ଟାକ୍ଟସ୍</string>
+    <string name="search_contacts">କଣ୍ଟାକ୍ଟସ୍ ଖୋଜନ୍ତୁ</string>
+    <string name="voice_search">ଭଏସ୍ ସର୍ଚ୍ଚ</string>
+    <string name="search_icon">ସର୍ଚ୍ଚ ଆଇକନ୍</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">କଣ୍ଟାକ୍ଟସ୍</string>
+    <string name="nav_favorites">ପସନ୍ଦିଦା</string>
+    <string name="nav_history">ଇତିହାସ</string>
+
+    <!-- Settings -->
+    <string name="settings">ସେଟିଂସମୂହ</string>
+    <string name="blocked_numbers">ବ୍ଲକ୍ ହୋଇଥିବା ନମ୍ବର</string>
+    <string name="manage_blocked_contacts">ଆପଣଙ୍କର ବ୍ଲକ୍ ହୋଇଥିବା କଣ୍ଟାକ୍ଟସ୍ ପରିଚାଳନା କରନ୍ତୁ</string>
+    <string name="theme_appearance">ଥିମ୍ ପ୍ରଦର୍ଶନ</string>
+    <string name="change_app_theme">ଆପ୍ ଥିମ୍ ବଦଳାନ୍ତୁ</string>
+    <string name="ai_spam_detection">AI ସ୍ପାମ୍ ଚିହ୍ନଟ</string>
+    <string name="smart_detection_subtitle">ଅଜ୍ଞାତ କଲର୍‌ମାନଙ୍କ ପାଇଁ ସ୍ମାର୍ଟ ଚିହ୍ନଟ</string>
+    <string name="about_app">ଆପ୍ ବିଷୟରେ</string>
+    <string name="version_info_subtitle">ସଂସ୍କରଣ ସୂଚନା ଏବଂ ଡେଭଲପର୍</string>
+    <string name="app_language">ଆପ୍ ଭାଷା</string>
+    <string name="select_language_subtitle">ଆପଣଙ୍କର ପସନ୍ଦର ଭାଷା ଚୟନ କରନ୍ତୁ</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">ଥିମ୍ ବାଛନ୍ତୁ</string>
+    <string name="choose_app_language">ଆପ୍ ଭାଷା ବାଛନ୍ତୁ</string>
+    <string name="theme_light">ଲାଇଟ୍</string>
+    <string name="theme_dark">ଡାର୍କ</string>
+    <string name="cancel">ବାତିଲ୍</string>
+    <string name="apply">ଲାଗୁ କରନ୍ତୁ</string>
+    <string name="block">ବ୍ଲକ୍ କରନ୍ତୁ</string>
+    <string name="help_feedback">ସାହାଯ୍ୟ ଏବଂ ମତାମତ</string>
+    <string name="help_feedback_subtitle">ପ୍ରଶ୍ନୋତ୍ତର, ମତାମତ, ସହାୟତା</string>
+    <string name="about">ବିଷୟରେ</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">ପ୍ରାୟତଃ ପଚରାଯାଉଥିବା ପ୍ରଶ୍ନ (FAQ)</string>
+    <string name="send_feedback">ମତାମତ ପଠାନ୍ତୁ</string>
+    <string name="contact_support">ସହାୟତା ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ</string>
+    <string name="rate_app">ଆପ୍‌କୁ ରେଟିଂ ଦିଅନ୍ତୁ</string>
+    <string name="no_email_app_title">କୌଣସି ଇମେଲ୍ ଆପ୍ ନାହିଁ</string>
+    <string name="no_email_app_msg">ଏହି ଡିଭାଇସ୍‌ରେ କୌଣସି ଇମେଲ୍ ଆପ୍ଲିକେସନ୍ ଇନଷ୍ଟଲ୍ ହୋଇନାହିଁ ।</string>
+    <string name="rate_app_title">ଆପ୍‌କୁ ରେଟିଂ ଦିଅନ୍ତୁ</string>
+    <string name="rate_app_msg">ସ୍ମାର୍ଟ କଣ୍ଟାକ୍ଟସ୍ ଆପ୍ଲିକେସନ୍ ଏପର୍ଯ୍ୟନ୍ତ ଗୁଗଲ୍ ପ୍ଲେ ଷ୍ଟୋର୍‌ରେ ଉପଲବ୍ଧ ନାହିଁ ।</string>
+    <string name="feedback_subject">ମତାମତ - ସ୍ମାର୍ଟ କଣ୍ଟାକ୍ଟସ୍ ଆପ୍</string>
+    <string name="support_subject">ସ୍ମାର୍ଟ କଣ୍ଟାକ୍ଟସ୍ - ସହାୟତା ଅନୁରୋଧ</string>
+    <string name="feedback_body_template">ନମସ୍କାର,\n\nମୁଁ ସ୍ମାର୍ଟ କଣ୍ଟାକ୍ଟସ୍ ଆପ୍ଲିକେସନ୍ ବିଷୟରେ ନିମ୍ନଲିଖିତ ମତାମତ ଦେବାକୁ ଚାହୁଁଛି:\n\n----------------------------------------\n\nଡିଭାଇସ୍: %1$s\n\nଆଣ୍ଡ୍ରଏଡ୍ ସଂସ୍କରଣ: %2$s\n\nଆପ୍ ସଂସ୍କରଣ: %3$s\n\nମତାମତ:\n\n----------------------------------------</string>
+    <string name="support_body_template">ନମସ୍କାର ସପୋର୍ଟ ଟିମ୍,\n\nମୋତେ ସ୍ମାର୍ଟ କଣ୍ଟାକ୍ଟସ୍ ଆପ୍ଲିକେସନ୍ ସମ୍ବନ୍ଧରେ ସହାୟତା ଦରକାର ।\n\nସମସ୍ୟାର ବିବରଣୀ:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. ମୁଁ କିପରି ଏକ ନୂତନ କଣ୍ଟାକ୍ଟ ଯୋଡିବି?</string>
+    <string name="a1">ଡାଏଲ୍ ପ୍ୟାଡ୍ ଖୋଲନ୍ତୁ ଏବଂ \"Add Contact\" ବଟନ୍ ଉପରେ ଟ୍ୟାପ୍ କରନ୍ତୁ, କିମ୍ବା କଣ୍ଟାକ୍ଟସ୍ ସ୍କ୍ରିନ୍‌ରୁ \"+\" ବଟନ୍ ବ୍ୟବହାର କରନ୍ତୁ ।</string>
+    <string name="q2">Q2. ମୁଁ କିପରି ଏକ କଣ୍ଟାକ୍ଟ ଏଡିଟ୍ କରିବି?</string>
+    <string name="a2">କଣ୍ଟାକ୍ଟ ଖୋଲନ୍ତୁ, ଏଡିଟ୍ ଆଇକନ୍ ଉପରେ ଟ୍ୟାପ୍ କରନ୍ତୁ, ସୂଚନା ଅପଡେଟ୍ କରନ୍ତୁ ଏବଂ \"Update\" ଉପରେ ଟ୍ୟାପ୍ କରନ୍ତୁ ।</string>
+    <string name="q3">Q3. ମୁଁ କିପରି ଏକ କଣ୍ଟାକ୍ଟ ଡିଲିଟ୍ କରିବି?</string>
+    <string name="a3">କଣ୍ଟାକ୍ଟ ଖୋଲନ୍ତୁ, ଥ୍ରୀ-ଡଟ୍ ମେନୁ ଉପରେ ଟ୍ୟାପ୍ କରନ୍ତୁ ଏବଂ \"Delete Contact\" ଚୟନ କରନ୍ତୁ ।</string>
+    <string name="q4">Q4. ମୁଁ କିପରି ପସନ୍ଦିଦା (Favorites) ରେ ଏକ କଣ୍ଟାକ୍ଟ ଯୋଡିବି?</string>
+    <string name="a4">କଣ୍ଟାକ୍ଟ ବିବରଣୀ ଖୋଲନ୍ତୁ ଏବଂ ଷ୍ଟାର୍ ଆଇକନ୍ ଉପରେ ଟ୍ୟାପ୍ କରନ୍ତୁ । କଣ୍ଟାକ୍ଟ ତୁରନ୍ତ ପସନ୍ଦିଦା ସ୍କ୍ରିନ୍‌ରେ ଦେଖାଯିବ ।</string>
+    <string name="q5">Q5. ମୁଁ ପସନ୍ଦିଦା ତାଲିକାରୁ ଏକ କଣ୍ଟାକ୍ଟ କିପରି ହଟାଇବି?</string>
+    <string name="a5">ପୂର୍ଣ୍ଣ ହୋଇଥିବା ଷ୍ଟାର୍ ଆଇକନ୍ ଉପରେ ପୁଣି ଥରେ ଟ୍ୟାପ୍ କରନ୍ତୁ । କଣ୍ଟାକ୍ଟ ପସନ୍ଦିଦା ତାଲିକାରୁ ହଟିଯିବ ।</string>
+    <string name="q6">Q6. ମୁଁ କିପରି ଏକ କଣ୍ଟାକ୍ଟ ବ୍ଲକ୍ କରିବି?</string>
+    <string name="a6">କଣ୍ଟାକ୍ଟ ବିବରଣୀ ଖୋଲନ୍ତୁ, ଥ୍ରୀ-ଡଟ୍ ମେନୁ ଉପରେ ଟ୍ୟାପ୍ କରନ୍ତୁ ଏବଂ \"Block Contact\" ଚୟନ କରନ୍ତୁ । କଣ୍ଟାକ୍ଟ ବ୍ଲକ୍ ହୋଇଥିବା କଣ୍ଟାକ୍ଟସ୍ ତାଲିକାରେ ଦେଖାଯିବ ।</string>
+    <string name="q7">Q7. ମୁଁ କିପରି ଏକ କଣ୍ଟାକ୍ଟ ଅନବ୍ଲକ୍ କରିବି?</string>
+    <string name="a7">Settings → Blocked Contacts କୁ ଯାଆନ୍ତୁ, କଣ୍ଟାକ୍ଟ ଚୟନ କରନ୍ତୁ ଏବଂ \"Unblock\" ଚୟନ କରନ୍ତୁ ।</string>
+    <string name="q8">Q8. ମୁଁ କଣ୍ଟାକ୍ଟସ୍ କିପରି ଖୋଜିବି?</string>
+    <string name="a8">କଣ୍ଟାକ୍ଟସ୍, ପସନ୍ଦିଦା କିମ୍ବା ଇତିହାସ ସ୍କ୍ରିନ୍‌ରେ ଥିବା ସର୍ଚ୍ଚ ବାର୍ ବ୍ୟବହାର କରନ୍ତୁ ।</string>
+    <string name="q9">Q9. ମୁଁ ଆପ୍ ଭାଷା କିପରି ବଦଳାଇବି?</string>
+    <string name="a9">Settings → App Language କୁ ଯାଆନ୍ତୁ ଏବଂ ଆପଣଙ୍କର ପସନ୍ଦର ଭାଷା ଚୟନ କରନ୍ତୁ ।</string>
+    <string name="q10">Q10. ମୁଁ ଆପ୍ ଥିମ୍ କିପରି ବଦଳାଇବି?</string>
+    <string name="a10">Settings → Theme Appearance କୁ ଯାଆନ୍ତୁ ଏବଂ ଲାଇଟ୍ କିମ୍ବା ଡାର୍କ ମୋଡ୍ ବାଛନ୍ତୁ ।</string>
+    <string name="q11">Q11. ମୋର ଏଡିଟ୍ ହୋଇଥିବା କଣ୍ଟାକ୍ଟରେ ପରିବର୍ତ୍ତନ କାହିଁକି ଦେଖାଯାଉ ନାହିଁ?</string>
+    <string name="a11">କଣ୍ଟାକ୍ଟସ୍ ଅନୁମତି ଦିଆଯାଇଛି କି ନାହିଁ ନିଶ୍ଚିତ କରନ୍ତୁ, ତା’ପରେ କଣ୍ଟାକ୍ଟକୁ ପୁଣି ଅପଡେଟ୍ କରନ୍ତୁ । ସଫଳ ଅପଡେଟ୍ ପରେ ଆପ୍ ସ୍ୱୟଂଚାଳିତ ଭାବରେ କଣ୍ଟାକ୍ଟକୁ ରିଫ୍ରେଶ୍ କରିବ ।</string>
+    <string name="q12">Q12. ଏହି ଆପ୍ ପାଇଁ ଇଣ୍ଟରନେଟ୍ ସଂଯୋଗ ଆବଶ୍ୟକ କି?</string>
+    <string name="a12">ନାହିଁ । ଅଧିକାଂଶ ଫିଚର୍ ସମ୍ପୂର୍ଣ୍ଣ ଅଫଲାଇନ୍‌ରେ କାମ କରେ କାରଣ ଆପ୍ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ର କଣ୍ଟାକ୍ଟସ୍ ଏବଂ ସ୍ଥାନୀୟ ଷ୍ଟୋରେଜ୍ ବ୍ୟବହାର କରେ ।</string>
+    <string name="q13">Q13. ମୋର କଣ୍ଟାକ୍ଟ ଡାଟା କୌଣସି ସର୍ଭରରେ ଅପଲୋଡ୍ ହୁଏ କି?</string>
+    <string name="a13">ନାହିଁ । ଯଦି ଆପଣ ଆପଣଙ୍କର ଗୁଗଲ୍ ଆକାଉଣ୍ଟ ମାଧ୍ୟମରେ ସିଙ୍କ୍ କରିବାକୁ ଚାହାଁନ୍ତି ନାହିଁ, ତେବେ ଆପଣଙ୍କ କଣ୍ଟାକ୍ଟସ୍ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ହିଁ ରହେ ।</string>
+    <string name="q14">Q14. ମୁଁ ଏହି ଆପ୍‌କୁ ମୋର ଡିଫଲ୍ଟ ଫୋନ୍ ଆପ୍ ଭାବରେ କାହିଁକି ସେଟ୍ କରିପାରୁ ନାହିଁ?</string>
+    <string name="a14">ଆପଣଙ୍କ ଡିଭାଇସ୍ ଏବଂ ଆଣ୍ଡ୍ରଏଡ୍ ସଂସ୍କରଣ ଉପରେ ନିର୍ଭର କରି ଆଣ୍ଡ୍ରଏଡ୍ ଏହି ବିକଳ୍ପକୁ ସୀମିତ କରିପାରେ । ଡିଫଲ୍ଟ ଫୋନ୍ ଆପ୍ ଭାବରେ ସେଟ୍ ନକରି ମଧ୍ୟ ଆପଣ ଆପ୍ ବ୍ୟବହାର କରିପାରିବେ ।</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">ସ୍ମାର୍ଟ କଣ୍ଟାକ୍ଟସ୍ ହେଉଛି ଏକ ଆଧୁନିକ ଆଣ୍ଡ୍ରଏଡ୍ କଣ୍ଟାକ୍ଟ ମ୍ୟାନେଜମେଣ୍ଟ ଆପ୍ଲିକେସନ୍ ଯାହା ବ୍ୟବହାରକାରୀଙ୍କୁ କଣ୍ଟାକ୍ଟସ୍, ପସନ୍ଦିଦା କଣ୍ଟାକ୍ଟସ୍, କଲ୍ ଇତିହାସ, ବ୍ଲକ୍ ହୋଇଥିବା କଣ୍ଟାକ୍ଟସ୍ ଏବଂ ଯୋଗାଯୋଗ ସେଟିଂସମୂହକୁ ସହଜରେ ପରିଚାଳନା କରିବାରେ ସାହାଯ୍ୟ କରିବା ପାଇଁ ଡିଜାଇନ୍ କରାଯାଇଛି ।\n\nଆପ୍ଲିକେସନ୍ ନିମ୍ନଲିଖିତ ବୈଶିଷ୍ଟ୍ୟ ସହିତ ଏକ ସଫା ମ୍ୟାଟେରିଆଲ୍ ଡିଜାଇନ୍ ଇଣ୍ଟରଫେସ୍ ପ୍ରଦାନ କରେ:\n\n• କଣ୍ଟାକ୍ଟ ପରିଚାଳନା\n• ପସନ୍ଦିଦା\n• କଲ୍ ଇତିହାସ\n• ଡାଏଲ୍ ପ୍ୟାଡ୍\n• କଣ୍ଟାକ୍ଟ ଏଡିଟିଂ\n• ବ୍ଲକ୍ ହୋଇଥିବା କଣ୍ଟାକ୍ଟସ୍\n• ଥିମ୍ ସପୋର୍ଟ\n• ଆପ୍ ଭାଷା ସପୋର୍ଟ\n• AI ସ୍ପାମ୍ ଚିହ୍ନଟ\n• ସୁରକ୍ଷିତ କଣ୍ଟାକ୍ଟ ପରିଚାଳନା</string>
+    <string name="developer_label">ଡେଭଲପର୍</string>
+    <string name="developer_name">ରିତିଶ୍</string>
+    <string name="contact_label">ଯୋଗାଯୋଗ</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">ଗୋପନୀୟତା ନୀତି</string>
+    <string name="privacy_policy_content">ଆପଣଙ୍କ ଗୋପନୀୟତା ଆମ ପାଇଁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ । ଆମର ଆପ୍ଲିକେସନ୍ ମାଧ୍ୟମରେ ଆପଣଙ୍କଠାରୁ ଆମେ ସଂଗ୍ରହ କରୁଥିବା କୌଣସି ସୂଚନା ସମ୍ବନ୍ଧରେ ଆପଣଙ୍କ ଗୋପନୀୟତାକୁ ସମ୍ମାନ ଦେବା ସ୍ମାର୍ଟ କଣ୍ଟାକ୍ଟସ୍‌ର ନୀତି ।\n\nଆପଣଙ୍କୁ ସେବା ପ୍ରଦାନ କରିବା ପାଇଁ ଆମକୁ ଯେତେବେଳେ ପ୍ରକୃତରେ ବ୍ୟକ୍ତିଗତ ସୂଚନାର ଆବଶ୍ୟକତା ଥାଏ, କେବଳ ସେତିକିବੇଳେ ଆମେ ତାହା ମାଗିଥାଉ । ଆମେ ଆପଣଙ୍କ ଜ୍ଞାନ ଏବଂ ସମ୍ମତି ସହିତ ନ୍ୟାୟଯୁକ୍ତ ଏବଂ ଆଇନଗତ ଉପାୟରେ ଏହା ସଂଗ୍ରହ କରୁ ।\n\nଆଇନ ଅନୁଯାୟୀ ଆବଶ୍ୟକ ନହେଲେ ଆମେ କୌଣସି ବ୍ୟକ୍ତିଗତ ଭାବେ ଚିହ୍നଟ ଯୋଗ್ಯ ସୂଚନା ସାର୍ବଜନୀନ ଭାବେ କିମ୍ବା ତୃତୀୟ ପକ୍ଷ ସହିତ ଶେୟାର କରୁନାହିଁ ।\n\nଆମର ଆପ୍ ବାହ୍ୟ ସାଇଟ୍ ସହିତ ଲିଙ୍କ୍ ହୋଇପାରେ ଯାହା ଆମ ଦ୍ୱାରା ପରିચାଳିତ ନୁହେଁ । ଦୟାକରି ସଚେതନ ରୁହନ୍ତୁ ଯେ ଏହି ସାଇଟ୍‌ଗੁଡ଼ିକର ବିଷୟବସ୍ତୁ ଏବଂ କାର୍ଯ୍ୟକଳାପ ଉପରେ ଆମର କୌଣସି ନିୟନ୍ତ୍ରଣ ନାହିଁ ଏବଂ ସେମାନଙ୍କର ଗୋପନୀୟତା ନୀତି ପାଇଁ ଆମେ ଦାୟିତ୍ୱ ଗ୍ରହଣ କରିପାରିବୁ ନାହିଁ ।</string>
+    <string name="terms_conditions">ନିୟମ ଏବଂ ସର୍ତ୍ତାବଳୀ</string>
+    <string name="licenses">ଲାଇସେନ୍ସ</string>
+    <string name="no_email_app">କୌଣସି ଇମେଲ୍ ଆପ୍ଲିକେସନ୍ ଇନଷ୍ଟଲ୍ ହୋଇନାହିଁ ।</string>
+    <string name="app_not_published">ଆପ୍ ଏପର୍ଯ୍ୟନ୍ତ ଗୁଗଲ୍ ପ୍ଲେରେ ପ୍ରକାଶିତ ହୋଇନାହିଁ ।</string>
+
+    <!-- Others -->
+    <string name="phone">ଫୋନ୍</string>
+    <string name="search_recent_calls">ନିକଟ ଅତୀତର କଲ୍ ଖୋଜନ୍ତୁ</string>
+    <string name="analyze_number">ନମ୍ବର ବିଶ୍ଳେଷଣ କରନ୍ତୁ</string>
+    <string name="enter_number_ai">ସ୍ମାର୍ଟ AI ସହିତ ବିଶ୍ଳେଷଣ କରିବାକୁ ଏକ ନମ୍ବର ଏଣ୍ଟର୍ କରନ୍ତୁ</string>
+    <string name="version">ସଂସ୍କରଣ ୧.୦</string>
+    <string name="about_description">AI ଫିଚର୍ ସହିତ ପ୍ରଫେସନାଲ୍ କଣ୍ଟାକ୍ଟ ମ୍ୟାନେଜମେଣ୍ଟ ।</string>
+</resources>

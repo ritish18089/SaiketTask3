@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">સ્માર્ટ કોન્ટેક્ટ્સ</string>
+    <string name="search_contacts">સંપર્કો શોધો</string>
+    <string name="voice_search">વોઈસ સર્ચ</string>
+    <string name="search_icon">સર્ચ આઇકન</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">સંપર્કો</string>
+    <string name="nav_favorites">પસંદીદા</string>
+    <string name="nav_history">ઇતિહાસ</string>
+
+    <!-- Settings -->
+    <string name="settings">સેટિંગ્સ</string>
+    <string name="blocked_numbers">બ્લોક કરેલા નંબરો</string>
+    <string name="manage_blocked_contacts">તમારા બ્લોક કરેલા સંપર્કો મેનેજ કરો</string>
+    <string name="theme_appearance">થીમ દેખાવ</string>
+    <string name="change_app_theme">એપ થીમ બદલો</string>
+    <string name="ai_spam_detection">AI સ્પામ ડિટેક્શન</string>
+    <string name="smart_detection_subtitle">અજાણ્યા કોલર્સ માટે સ્માર્ટ ઓળખ</string>
+    <string name="about_app">એપ વિશે</string>
+    <string name="version_info_subtitle">વર્ઝન માહિતી અને ડેવલપર</string>
+    <string name="app_language">એપની ભાષા</string>
+    <string name="select_language_subtitle">તમારી પસંદગીની ભાષા પસંદ કરો</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">થીમ પસંદ કરો</string>
+    <string name="choose_app_language">એપની ભાષા પસંદ કરો</string>
+    <string name="theme_light">લાઇટ</string>
+    <string name="theme_dark">ડાર્ક</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="apply">લાગુ કરો</string>
+    <string name="block">બ્લોક કરો</string>
+    <string name="help_feedback">મદદ અને પ્રતિસાદ</string>
+    <string name="help_feedback_subtitle">પ્રશ્નોત્તરી, પ્રતિસાદ, સપોર્ટ</string>
+    <string name="about">વિશે</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">વારંવાર પૂછાતા પ્રશ્નો (FAQ)</string>
+    <string name="send_feedback">પ્રતિસાદ મોકલો</string>
+    <string name="contact_support">સપોર્ટનો સંપર્ક કરો</string>
+    <string name="rate_app">એપને રેટ કરો</string>
+    <string name="no_email_app_title">કોઈ ઈમેઈલ એપ નથી</string>
+    <string name="no_email_app_msg">આ ઉપકરણ પર કોઈ ઈમેઈલ એપ્લિકેશન ઇન્સ્ટોલ કરેલી નથી.</string>
+    <string name="rate_app_title">એપને રેટ કરો</string>
+    <string name="rate_app_msg">સ્માર્ટ કોન્ટેક્ટ્સ એપ્લિકેશન હજુ ગૂગલ પ્લે સ્ટોર પર ઉપલબ્ધ નથી.</string>
+    <string name="feedback_subject">પ્રતિસાદ - સ્માર્ટ કોન્ટેક્ટ્સ એપ</string>
+    <string name="support_subject">સ્માર્ટ કોન્ટેક્ટ્સ - સપોર્ટ વિનંતી</string>
+    <string name="feedback_body_template">હેલો,\n\nહું સ્માર્ટ કોન્ટેક્ટ્સ એપ્લિકેશન વિશે નીચેનો પ્રતિસાદ શેર કરવા માંગુ છું:\n\n----------------------------------------\n\nઉપકરણ: %1$s\n\nએન્ડ્રોઇડ વર્ઝન: %2$s\n\nએપ વર્ઝન: %3$s\n\nપ્રતિસાદ:\n\n----------------------------------------</string>
+    <string name="support_body_template">હેલો સપોર્ટ ટીમ,\n\nમને સ્માર્ટ કોન્ટેક્ટ્સ એપ્લિકેશન સંબંધિત મદદની જરૂર છે.\n\nસમસ્યાનું વર્ણન:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. હું નવો સંપર્ક કેવી રીતે ઉમેરી શકું?</string>
+    <string name="a1">ડાયલ પેડ ખોલો અને \"Add Contact\" બટન પર ટેપ કરો, અથવા સંપર્ક સ્ક્રીન પરથી \"+\" બટનનો ઉપયોગ કરો.</string>
+    <string name="q2">Q2. હું સંપર્કને કેવી રીતે એડિટ કરી શકું?</string>
+    <string name="a2">સંપર્ક ખોલો, એડિટ આઇકન પર ટેપ કરો, માહિતી અપડેટ કરો અને \"Update\" પર ટેપ કરો.</string>
+    <string name="q3">Q3. હું સંપર્કને કેવી રીતે ડિલીટ કરી શકું?</string>
+    <string name="a3">સંપર્ક ખોલો, થ્રી-ડોટ મેનૂ પર ટેપ કરો અને \"Delete Contact\" પસંદ કરો.</string>
+    <string name="q4">Q4. હું સંપર્કને પસંદીદામાં (Favorites) કેવી રીતે ઉમેરી શકું?</string>
+    <string name="a4">સંપર્કની વિગતો ખોલો અને સ્ટાર આઇકન પર ટેપ કરો. સંપર્ક તરત જ પસંદીદા સ્ક્રીન પર દેખાશે.</string>
+    <string name="q5">Q5. હું પસંદીદામાંથી સંપર્કને કેવી રીતે દૂર કરી શકું?</string>
+    <string name="a5">ભરેલા સ્ટાર આઇકન પર ફરીથી ટેપ કરો. સંપર્ક પસંદીદામાંથી દૂર થઈ જશે.</string>
+    <string name="q6">Q6. હું સંપર્કને કેવી રીતે બ્લોક કરી શકું?</string>
+    <string name="a6">સંપર્કની વિગતો ખોલો, થ્રી-ડોટ મેનૂ પર ટેપ કરો અને \"Block Contact\" પસંદ કરો. સંપર્ક બ્લોક કરેલા સંપર્કોની સૂચિમાં દેખાશે.</string>
+    <string name="q7">Q7. હું સંપર્કને અનબ્લોક કેવી રીતે કરી શકું?</string>
+    <string name="a7">Settings → Blocked Contacts પર જાઓ, સંપર્ક પસંદ કરો અને \"Unblock\" પસંદ કરો.</string>
+    <string name="q8">Q8. હું સંપર્કો કેવી રીતે શોધી શકું?</string>
+    <string name="a8">સંપર્કો, પસંદીદા અથવા ઇતિહાસ સ્ક્રીન પર સર્ચ બારનો ઉપયોગ કરો.</string>
+    <string name="q9">Q9. હું એપની ભાષા કેવી રીતે બદલી શકું?</string>
+    <string name="a9">Settings → App Language પર જાઓ અને તમારી પસંદગીની ભાષા પસંદ કરો.</string>
+    <string name="q10">Q10. હું એપની થીમ કેવી રીતે બદલી શકું?</string>
+    <string name="a10">Settings → Theme Appearance પર જાઓ અને લાઇટ અથવા ડાર્ક મોડ પસંદ કરો.</string>
+    <string name="q11">Q11. મારા એડિટ કરેલા સંપર્કમાં ફેરફારો કેમ દેખાતા નથી?</string>
+    <string name="a11">ખાતરી કરો કે સંપર્કોની પરવાનગી આપેલી છે, અને પછી સંપર્કને ફરીથી અપડેટ કરો. સફળ અપડેટ પછી એપ આપમેળે સંપર્કને રિફ્રેશ કરશે.</string>
+    <string name="q12">Q12. શું આ એપ માટે ઇન્ટરનેટ કનેક્શનની જરૂર છે?</string>
+    <string name="a12">ના. મોટાભાગની સુવિધાઓ સંપૂર્ણપણે ઓફલાઇન કામ કરે છે કારણ કે એપ તમારા ઉપકરણના સંપર્કો અને સ્થાનિક સ્ટોરેજનો ઉપયોગ કરે છે.</string>
+    <string name="q13">Q13. શું મારો સંપર્ક ડેટા કોઈ સર્વર પર અપલોડ થાય છે?</string>
+    <string name="a13">ના. જ્યાં સુધી તમે તમારા ગૂગલ એકાઉન્ટ દ્વારા તેમને સિંક કરવાનું પસંદ ન કરો ત્યાં સુધી તમારા સંપર્કો તમારા ઉપકરણ પર જ રહે છે.</string>
+    <string name="q14">Q14. હું આ એપને મારી ડિફોલ્ટ ફોન એપ તરીકે કેમ સેટ કરી શકતો નથી?</string>
+    <string name="a14">તમારા ઉપકરણ અને એન્ડ્રોઇડ વર્ઝનના આધારે એન્ડ્રોઇડ આ વિકલ્પને પ્રતિબંધિત કરી શકે છે. તમે ડિફોલ્ટ ફોન એપ તરીકે સેટ કર્યા વિના પણ એપનો ઉપયોગ કરી શકો છો.</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">સ્માર્ટ કોન્ટેક્ટ્સ એક આધુનિક એન્ડ્રોઇડ સંપર્ક વ્યવસ્થાપન એપ્લિકેશન છે જે વપરાશકર્તાઓને સંપર્કો, પસંદીદા સંપર્કો, કોલ ઇતિહાસ, બ્લોક કરેલા સંપર્કો અને સંચાર સેટિંગ્સ સરળતાથી મેનેજ કરવામાં મદદ કરવા માટે ડિઝાઇન કરવામાં આવી છે.\n\nએપ્લિકેશન નીચેની સુવિધાઓ સાથે સ્વચ્છ મટિરિયલ ડિઝાઇન ઇન્ટરફેસ પ્રદાન કરે છે:\n\n• સંપર્ક વ્યવસ્થાપન\n• પસંદીદા\n• કોલ ઇતિહાસ\n• ડાયલ પેડ\n• સંપર્ક સંપાદન\n• બ્લોક કરેલા સંપર્કો\n• થીમ સપોર્ટ\n• એપની ભાષા સપોર્ટ\n• AI સ્પામ ડિટેક્શન\n• સુરક્ષિત સંપર્ક વ્યવસ્થાપન</string>
+    <string name="developer_label">ડેવલપર</string>
+    <string name="developer_name">રિતિશ</string>
+    <string name="contact_label">સંપર્ક</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">ગોપનીયતા નીતિ</string>
+    <string name="privacy_policy_content">તમારી ગોપનીયતા અમારા માટે મહત્વપૂર્ણ છે. અમારી એપ્લિકેશનમાં તમારી પાસેથી અમે જે માહિતી એકત્રિત કરી શકીએ છીએ તેના સંદર્ભમાં તમારી ગોપનીયતાનું સન્માન કરવું એ સ્માર્ટ કોન્ટેક્ટ્સની નીતિ છે.\n\nતમને સેવા પ્રદાન કરવા માટે જ્યારે અમને ખરેખર તેની જરૂર હોય ત્યારે જ અમે વ્યક્તિગત માહિતી માંગીએ છીએ. અમે તમારી જાણકારી અને સંમતિ સાથે વાજબી અને કાયદેસરની રીતે તેને એકત્રિત કરીએ છીએ.\n\nજ્યાં સુધી કાયદા દ્વારા આવશ્યક ન હોય ત્યાં સુધી અમે વ્યક્તિગત રીતે ઓળખી શકાય તેવી કોઈ માહિતી જાહેરમાં અથવા તૃતીય પક્ષો સાથે શેર કરતા નથી.\n\nઅમારી એપ બાહ્ય સાઇટ્સ સાથે લિંક થઈ શકે છે જે અમારા દ્વારા સંચાલિત નથી. કૃપા કરીને ધ્યાન રાખો કે આ સાઇટ્સની સામગ્રી અને પ્રથાઓ પર અમારું કોઈ નિયંત્રણ નથી, અને અમે તેમની સંબંધિત ગોપનીયતા નીતિઓ માટે જવાબદારી સ્વીકારી શકતા નથી.</string>
+    <string name="terms_conditions">નિયમો અને શરતો</string>
+    <string name="licenses">લાયસન્સ</string>
+    <string name="no_email_app">કોઈ ઈમેઈલ એપ્લિકેશન ઇન્સ્ટોલ કરેલી નથી.</string>
+    <string name="app_not_published">એપ હજુ ગૂગલ પ્લે પર પ્રકાશિત થઈ નથી.</string>
+
+    <!-- Others -->
+    <string name="phone">ફોન</string>
+    <string name="search_recent_calls">તાજેતરના કોલ્સ શોધો</string>
+    <string name="analyze_number">નંબરનું વિશ્લેષણ કરો</string>
+    <string name="enter_number_ai">સ્માર્ટ AI સાથે વિશ્લેષણ કરવા માટે નંબર દાખલ કરો</string>
+    <string name="version">વર્ઝન 1.0</string>
+    <string name="about_description">AI સુવિધાઓ સાથે વ્યવસાયિક સંપર્ક વ્યવસ્થાપન.</string>
+</resources>

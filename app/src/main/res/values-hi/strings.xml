@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">स्मार्ट कॉन्टैक्ट्स</string>
+    <string name="search_contacts">संपर्क खोजें</string>
+    <string name="voice_search">वॉयस सर्च</string>
+    <string name="search_icon">खोज आइकन</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">संपर्क</string>
+    <string name="nav_favorites">पसंदीदा</string>
+    <string name="nav_history">इतिहास</string>
+
+    <!-- Settings -->
+    <string name="settings">सेटिंग्स</string>
+    <string name="blocked_numbers">ब्लॉक किए गए नंबर</string>
+    <string name="manage_blocked_contacts">अपने ब्लॉक किए गए संपर्कों को प्रबंधित करें</string>
+    <string name="theme_appearance">थीम उपस्थिति</string>
+    <string name="change_app_theme">ऐप थीम बदलें</string>
+    <string name="ai_spam_detection">एआई स्पैम डिटेक्शन</string>
+    <string name="smart_detection_subtitle">अज्ञात कॉल करने वालों के लिए स्मार्ट पहचान</string>
+    <string name="about_app">ऐप के बारे में</string>
+    <string name="version_info_subtitle">संस्करण जानकारी और डेवलपर</string>
+    <string name="app_language">ऐप की भाषा</string>
+    <string name="select_language_subtitle">अपनी पसंदीदा भाषा चुनें</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">थीम चुनें</string>
+    <string name="choose_app_language">ऐप की भाषा चुनें</string>
+    <string name="theme_light">लाइट</string>
+    <string name="theme_dark">डार्क</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="apply">लागू करें</string>
+    <string name="block">ब्लॉक करें</string>
+    <string name="help_feedback">सहायता और प्रतिक्रिया</string>
+    <string name="help_feedback_subtitle">अक्सर पूछे जाने वाले प्रश्न, प्रतिक्रिया, सहायता</string>
+    <string name="about">के बारे में</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">अक्सर पूछे जाने वाले प्रश्न (FAQ)</string>
+    <string name="send_feedback">प्रतिक्रिया भेजें</string>
+    <string name="contact_support">सहायता से संपर्क करें</string>
+    <string name="rate_app">ऐप को रेट करें</string>
+    <string name="no_email_app_title">कोई ईमेल ऐप नहीं</string>
+    <string name="no_email_app_msg">इस डिवाइस पर कोई ईमेल एप्लिकेशन इंस्टॉल नहीं है।</string>
+    <string name="rate_app_title">ऐप को रेट करें</string>
+    <string name="rate_app_msg">स्मार्ट कॉन्टैक्ट्स एप्लिकेशन अभी तक गूगल प्ले स्टोर पर उपलब्ध नहीं है।</string>
+    <string name="feedback_subject">प्रतिक्रिया - स्मार्ट कॉन्टैक्ट्स ऐप</string>
+    <string name="support_subject">स्मार्ट कॉन्टैक्ट्स - सहायता अनुरोध</string>
+    <string name="feedback_body_template">नमस्ते,\n\nमैं स्मार्ट कॉन्टैक्ट्स एप्लिकेशन के बारे में निम्नलिखित प्रतिक्रिया साझा करना चाहता हूँ:\n\n----------------------------------------\n\nडिवाइस: %1$s\n\nएंड्रॉइड वर्जन: %2$s\n\nऐप वर्जन: %3$s\n\nप्रतिक्रिया:\n\n----------------------------------------</string>
+    <string name="support_body_template">नमस्ते सहायता टीम,\n\nमुझे स्मार्ट कॉन्टैक्ट्स एप्लिकेशन के संबंध में सहायता चाहिए।\n\nमुद्दे का विवरण:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. मैं नया संपर्क कैसे जोड़ूँ?</string>
+    <string name="a1">डायल पैड खोलें और \"Add Contact\" बटन पर टैप करें, या संपर्क स्क्रीन से \"+\" बटन का उपयोग करें।</string>
+    <string name="q2">Q2. मैं किसी संपर्क को कैसे संपादित करूँ?</string>
+    <string name="a2">संपर्क खोलें, संपादन आइकन पर टैप करें, अपनी जानकारी अपडेट करें और अपडेट पर टैप करें।</string>
+    <string name="q3">Q3. मैं किसी संपर्क को कैसे हटाऊं?</string>
+    <string name="a3">संपर्क खोलें, तीन-बिंदु मेनू पर टैप करें और \"संपर्क हटाएं\" चुनें।</string>
+    <string name="q4">Q4. मैं किसी संपर्क को पसंदीदा में कैसे जोड़ूँ?</string>
+    <string name="a4">संपर्क विवरण खोलें और स्टार आइकन पर टैप करें। संपर्क तुरंत पसंदीदा स्क्रीन पर दिखाई देगा।</string>
+    <string name="q5">Q5. मैं पसंदीदा से संपर्क कैसे हटाऊं?</string>
+    <string name="a5">भरे हुए स्टार आइकन पर दोबारा टैप करें। संपर्क पसंदीदा से हटा दिया जाएगा।</string>
+    <string name="q6">Q6. मैं किसी संपर्क को कैसे ब्लॉक करूँ?</string>
+    <string name="a6">संपर्क विवरण खोलें, तीन-बिंदु मेनू पर टैप करें, और \"संपर्क ब्लॉक करें\" चुनें। संपर्क ब्लॉक किए गए संपर्कों की सूची में दिखाई देगा।</string>
+    <string name="q7">Q7. मैं किसी संपर्क को अनब्लॉक कैसे करूँ?</string>
+    <string name="a7">सेटिंग्स → ब्लॉक किए गए संपर्क पर जाएं, संपर्क चुनें और \"अनब्लॉक\" चुनें।</string>
+    <string name="q8">Q8. मैं संपर्कों की खोज कैसे करूँ?</string>
+    <string name="a8">संपर्क, पसंदीदा या इतिहास स्क्रीन पर सर्च बार का उपयोग करें।</string>
+    <string name="q9">Q9. मैं ऐप की भाषा कैसे बदलूँ?</string>
+    <string name="a9">सेटिंग्स → ऐप की भाषा पर जाएं और अपनी पसंदीदा भाषा चुनें।</string>
+    <string name="q10">Q10. मैं ऐप की थीम कैसे बदलूँ?</string>
+    <string name="a10">सेटिंग्स → थीम उपस्थिति पर जाएं और लाइट या डार्क मोड चुनें।</string>
+    <string name="q11">Q11. मेरा संपादित संपर्क परिवर्तन क्यों नहीं दिखा रहा है?</string>
+    <string name="a11">सुनिश्चित करें कि ऐप के पास संपर्क अनुमति है, फिर संपर्क को फिर से अपडेट करें। सफल अपडेट के बाद ऐप स्वचालित रूप से संपर्क को रीफ्रेश करेगा।</string>
+    <string name="q12">Q12. क्या इस ऐप के लिए इंटरनेट कनेक्शन की आवश्यकता है?</string>
+    <string name="a12">नहीं। अधिकांश सुविधाएं पूरी तरह से ऑफलाइन काम करती हैं क्योंकि ऐप आपके डिवाइस के संपर्कों और स्थानीय स्टोरेज का उपयोग करता है।</string>
+    <string name="q13">Q13. क्या मेरा संपर्क डेटा किसी सर्वर पर अपलोड किया जाता है?</string>
+    <string name="a13">नहीं। जब तक आप स्पष्ट रूप से एंड्रॉइड की सिंक सेवाओं का उपयोग नहीं करते हैं, आपके संपर्क आपके डिवाइस पर ही रहते हैं।</string>
+    <string name="q14">Q14. मैं इस ऐप को अपना डिफॉल्ट फोन ऐप क्यों नहीं बना सकता?</string>
+    <string name="a14">आपके डिवाइस और एंड्रॉइड वर्जन के आधार पर एंड्रॉइड इस विकल्प को सीमित कर सकता है। आप इसे डिफॉल्ट फोन ऐप के रूप में सेट किए बिना भी उपयोग कर सकते हैं।</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">स्मार्ट कॉन्टैक्ट्स एक आधुनिक एंड्रॉइड संपर्क प्रबंधन एप्लिकेशन है जिसे उपयोगकर्ताओं को संपर्कों, पसंदीदा संपर्कों, कॉल इतिहास, ब्लॉक किए गए संपर्कों और संचार सेटिंग्स को आसानी से प्रबंधित करने में मदद करने के लिए डिज़ाइन किया गया है।\n\nएप्लिकेशन एक स्वच्छ सामग्री डिजाइन इंटरफ़ेस प्रदान करता है जिसमें विशेषताएं शामिल हैं:\n\n• संपर्क प्रबंधन\n• पसंदीदा\n• कॉल इतिहास\n• डायल पैड\n• संपर्क संपादन\n• ब्लॉक किए गए संपर्क\n• थीम समर्थन\n• ऐप भाषा समर्थन\n• एआई स्पैम डिटेक्शन\n• सुरक्षित संपर्क प्रबंधन</string>
+    <string name="developer_label">डेवलपर</string>
+    <string name="developer_name">रितिश</string>
+    <string name="contact_label">संपर्क</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="privacy_policy_content">आपकी गोपनीयता हमारे लिए महत्वपूर्ण है। आपकी गोपनीयता का सम्मान करना स्मार्ट कॉन्टैक्ट्स की नीति है।\n\nहम व्यक्तिगत जानकारी केवल तभी मांगते हैं जब हमें वास्तव में आपको सेवा प्रदान करने के लिए इसकी आवश्यकता होती है। हम इसे आपकी जानकारी और सहमति के साथ उचित और कानूनी तरीकों से एकत्र करते हैं।\n\nहम किसी भी व्यक्तिगत पहचान योग्य जानकारी को सार्वजनिक रूप से या तीसरे पक्ष के साथ साझा नहीं करते हैं, सिवाय इसके कि जब कानून द्वारा ऐसा करना आवश्यक हो।\n\nहमारा ऐप बाहरी साइटों से लिंक हो सकता है जो हमारे द्वारा संचालित नहीं हैं। कृपया ध्यान रखें कि इन साइटों की सामग्री और प्रथाओं पर हमारा कोई नियंत्रण नहीं है, और हम उनकी संबंधित गोपनीयता नीतियों के लिए जिम्मेदारी या दायित्व स्वीकार नहीं कर सकते।</string>
+    <string name="terms_conditions">नियम और शर्तें</string>
+    <string name="licenses">लाइसेंस</string>
+    <string name="no_email_app">कोई ईमेल एप्लिकेशन इंस्टॉल नहीं है।</string>
+    <string name="app_not_published">ऐप अभी तक Google Play पर प्रकाशित नहीं हुआ है।</string>
+
+    <!-- Others -->
+    <string name="phone">फ़ोन</string>
+    <string name="search_recent_calls">हाल की कॉल खोजें</string>
+    <string name="analyze_number">नंबर का विश्लेषण करें</string>
+    <string name="enter_number_ai">स्मार्ट एआई के साथ विश्लेषण करने के लिए एक नंबर दर्ज करें</string>
+    <string name="version">संस्करण 1.0</string>
+    <string name="about_description">एआई सुविधाओं के साथ पेशेवर संपर्क प्रबंधन।</string>
+</resources>

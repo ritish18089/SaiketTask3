@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">স্মার্ট কন্টাক্টস</string>
+    <string name="search_contacts">কন্টাক্ট খুঁজুন</string>
+    <string name="voice_search">ভয়েস সার্চ</string>
+    <string name="search_icon">সার্চ আইকন</string>
+
+    <!-- Navigation -->
+    <string name="nav_contacts">কন্টাক্টস</string>
+    <string name="nav_favorites">প্রিয়</string>
+    <string name="nav_history">ইতিহাস</string>
+
+    <!-- Settings -->
+    <string name="settings">সেটিংস</string>
+    <string name="blocked_numbers">ব্লক করা নম্বর</string>
+    <string name="manage_blocked_contacts">আপনার ব্লক করা কন্টাক্টস পরিচালনা করুন</string>
+    <string name="theme_appearance">থিম অ্যাপিয়ারেন্স</string>
+    <string name="change_app_theme">অ্যাপ থিম পরিবর্তন করুন</string>
+    <string name="ai_spam_detection">AI স্প্যাম সনাক্তকরণ</string>
+    <string name="smart_detection_subtitle">অজানা কলারদের জন্য স্মার্ট সনাক্তকরণ</string>
+    <string name="about_app">অ্যাপ সম্পর্কে</string>
+    <string name="version_info_subtitle">ভার্সন তথ্য এবং ডেভেলপার</string>
+    <string name="app_language">অ্যাপের ভাষা</string>
+    <string name="select_language_subtitle">আপনার পছন্দের ভাষা নির্বাচন করুন</string>
+
+    <!-- Dialogs -->
+    <string name="choose_theme">থিম চয়ন করুন</string>
+    <string name="choose_app_language">অ্যাপের ভাষা চয়ন করুন</string>
+    <string name="theme_light">লাইট</string>
+    <string name="theme_dark">ডার্ক</string>
+    <string name="cancel">বাতিল</string>
+    <string name="apply">প্রয়োগ করুন</string>
+    <string name="block">ব্লক করুন</string>
+    <string name="help_feedback">সাহায্য ও ফিডব্যাক</string>
+    <string name="help_feedback_subtitle">প্রশ্নোত্তর, ফিডব্যাক, সহায়তা</string>
+    <string name="about">সম্পর্কে</string>
+
+    <!-- Help & Feedback -->
+    <string name="faq">সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQ)</string>
+    <string name="send_feedback">ফিডব্যাক পাঠান</string>
+    <string name="contact_support">সাপোর্টের সাথে যোগাযোগ করুন</string>
+    <string name="rate_app">অ্যাপ রেট করুন</string>
+    <string name="no_email_app_title">কোনো ইমেল অ্যাপ নেই</string>
+    <string name="no_email_app_msg">এই ডিভাইসে কোনো ইমেল অ্যাপ্লিকেশন ইনস্টল করা নেই।</string>
+    <string name="rate_app_title">অ্যাপ রেট করুন</string>
+    <string name="rate_app_msg">স্মার্ট কন্টাক্টস অ্যাপ্লিকেশনটি এখনও গুগল প্লে স্টোরে উপলব্ধ নয়।</string>
+    <string name="feedback_subject">ফিডব্যাক - স্মার্ট কন্টাক্টস অ্যাপ</string>
+    <string name="support_subject">স্মার্ট কন্টাক্টস - সাপোর্টের জন্য অনুরোধ</string>
+    <string name="feedback_body_template">হ্যালো,\n\nআমি স্মার্ট কন্টাক্টস অ্যাপ্লিকেশন সম্পর্কে নিম্নলিখিত ফিডব্যাক শেয়ার করতে চাই:\n\n----------------------------------------\n\nডিভাইস: %1$s\n\nঅ্যান্ড্রয়েড ভার্সন: %2$s\n\nঅ্যাপ ভার্সন: %3$s\n\nফিডব্যাক:\n\n----------------------------------------</string>
+    <string name="support_body_template">হ্যালো সাপোর্ট টিম,\n\nআমার স্মার্ট কন্টাক্টস অ্যাপ্লিকেশন সম্পর্কিত সহায়তা প্রয়োজন।\n\nসমস্যার বিবরণ:</string>
+
+    <!-- FAQs -->
+    <string name="q1">Q1. আমি কিভাবে একটি নতুন কন্টাক্ট যোগ করব?</string>
+    <string name="a1">ডায়াল প্যাড খুলুন এবং \"Add Contact\" বোতামে ট্যাপ করুন, অথবা কন্টাক্টস স্ক্রিন থেকে \"+\" বোতামটি ব্যবহার করুন।</string>
+    <string name="q2">Q2. আমি কিভাবে একটি কন্টাক্ট এডিট করব?</string>
+    <string name="a2">কন্টাক্টটি খুলুন, এডিট আইকনে ট্যাপ করুন, তথ্য আপডেট করুন এবং \"Update\" এ ট্যাপ করুন।</string>
+    <string name="q3">Q3. আমি কিভাবে একটি কন্টাক্ট ডিলিট করব?</string>
+    <string name="a3">কন্টাক্টটি খুলুন, থ্রি-ডট মেনুতে ট্যাপ করুন এবং \"Delete Contact\" নির্বাচন করুন।</string>
+    <string name="q4">Q4. আমি কিভাবে প্রিয়তে (Favorites) একটি কন্টাক্ট যোগ করব?</string>
+    <string name="a4">কন্টাক্ট ডিটেইলস খুলুন এবং স্টার আইকনে ট্যাপ করুন। কন্টাক্টটি সাথে সাথে প্রিয় স্ক্রিনে উপস্থিত হবে।</string>
+    <string name="q5">Q5. আমি প্রিয় তালিকা থেকে একটি কন্টাক্ট কিভাবে সরাব?</string>
+    <string name="a5">ভরাট করা স্টার আইকনে আবার ট্যাপ করুন। কন্টাক্টটি প্রিয় তালিকা থেকে মুছে যাবে।</string>
+    <string name="q6">Q6. আমি কিভাবে একটি কন্টাক্ট ব্লক করব?</string>
+    <string name="a6">কন্টাক্ট ডিটেইলস খুলুন, থ্রি-ডট মেনুতে ট্যাপ করুন এবং \"Block Contact\" নির্বাচন করুন। কন্টাক্টটি ব্লক করা কন্টাক্টস তালিকায় দেখা যাবে।</string>
+    <string name="q7">Q7. আমি কিভাবে একটি কন্টাক্ট আনব্লক করব?</string>
+    <string name="a7">Settings → Blocked Contacts-এ যান, কন্টাক্টটি নির্বাচন করুন এবং \"Unblock\" নির্বাচন করুন।</string>
+    <string name="q8">Q8. আমি কিভাবে কন্টাক্ট খুঁজব?</string>
+    <string name="a8">কন্টাক্টস, প্রিয় বা ইতিহাসের স্ক্রিনে সার্চ বারটি ব্যবহার করুন।</string>
+    <string name="q9">Q9. আমি অ্যাপের ভাষা কিভাবে পরিবর্তন করব?</string>
+    <string name="a9">Settings → App Language-এ যান এবং আপনার পছন্দের ভাষা নির্বাচন করুন।</string>
+    <string name="q10">Q10. আমি অ্যাপের থিম কিভাবে পরিবর্তন করব?</string>
+    <string name="a10">Settings → Theme Appearance-এ যান এবং লাইট বা ডার্ক মোড বেছে নিন।</string>
+    <string name="q11">Q11. আমার এডিট করা কন্টাক্টে পরিবর্তন দেখা যাচ্ছে না কেন?</string>
+    <string name="a11">কন্টাক্টস পারমিশন দেওয়া আছে কিনা নিশ্চিত করুন, তারপর কন্টাক্টটি আবার আপডেট করুন। সফল আপডেটের পর অ্যাপটি স্বয়ংক্রিয়ভাবে কন্টাক্টটি রিফ্রেশ করবে।</string>
+    <string name="q12">Q12. এই অ্যাপটির কি ইন্টারনেট সংযোগ প্রয়োজন?</string>
+    <string name="a12">না। বেশিরভাগ ফিচার অফলাইনে কাজ করে কারণ অ্যাপটি আপনার ডিভাইসের কন্টাক্টস এবং লোকাল স্টোরেজ ব্যবহার করে।</string>
+    <string name="q13">Q13. আমার কন্টাক্ট ডেটা কি কোনো সার্ভারে আপলোড করা হয়?</string>
+    <string name="a13">না। আপনি যদি আপনার গুগল অ্যাকাউন্টের মাধ্যমে সিঙ্ক করতে পছন্দ না করেন তবে আপনার কন্টাক্টস আপনার ডিভাইসেই থাকে।</string>
+    <string name="q14">Q14. কেন আমি এই অ্যাপটিকে আমার ডিফল্ট ফোন অ্যাপ হিসেবে সেট করতে পারছি না?</string>
+    <string name="a14">আপনার ডিভাইস এবং অ্যান্ড্রয়েড ভার্সনের ওপর নির্ভর করে অ্যান্ড্রয়েড এই বিকল্পটি সীমাবদ্ধ করতে পারে। ডিফল্ট ফোন অ্যাপ হিসেবে সেট না করেও আপনি অ্যাপটি ব্যবহার করতে পারেন।</string>
+
+    <!-- About Detailed -->
+    <string name="about_detailed_description">স্মার্ট কন্টাক্টস একটি আধুনিক অ্যান্ড্রয়েড কন্টাক্ট ম্যানেজমেন্ট অ্যাপ্লিকেশন যা ব্যবহারকারীদের কন্টাক্টস, প্রিয় কন্টাক্টস, কল ইতিহাস, ব্লক করা কন্টাক্টস এবং যোগাযোগের সেটিংস সহজেই পরিচালনা করতে সাহায্য করার জন্য ডিজাইন করা হয়েছে।\n\nঅ্যাপ্লিকেশনটি নিম্নলিখিত বৈশিষ্ট্যগুলি সহ একটি পরিচ্ছন্ন মেটেরিয়াল ডিজাইন ইন্টারফেস প্রদান করে:\n\n• কন্টাক্ট ম্যানেজমেন্ট\n• প্রিয়\n• কল ইতিহাস\n• ডায়াল প্যাড\n• কন্টাক্ট এডিটিং\n• ব্লক করা কন্টাক্টস\n• থিম সাপোর্ট\n• অ্যাপ ল্যাঙ্গুয়েজ সাপোর্ট\n• AI স্প্যাম সনাক্তকরণ\n• সুরক্ষিত কন্টাক্ট ম্যানেজমেন্ট</string>
+    <string name="developer_label">ডেভেলপার</string>
+    <string name="developer_name">রিতিশ</string>
+    <string name="contact_label">যোগাযোগ</string>
+    <string name="developer_email" translatable="false">ritish1808@gmail.com</string>
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="privacy_policy_content">আপনার গোপনীয়তা আমাদের কাছে অত্যন্ত গুরুত্বপূর্ণ। আমাদের অ্যাপ্লিকেশন জুড়ে আপনার কাছ থেকে আমরা যে কোনও তথ্য সংগ্রহ করতে পারি তার প্রেক্ষিতে আপনার গোপনীয়তাকে সম্মান করা স্মার্ট কন্টাক্টস-এর নীতি।\n\nআপনাকে পরিষেবা প্রদানের জন্য আমাদের যখন সত্যই ব্যক্তিগত তথ্যের প্রয়োজন হয় তখনই আমরা তা চাই। আমরা আপনার জ্ঞান এবং সম্মতিতে ন্যায্য এবং আইনসম্মত উপায়ে এটি সংগ্রহ করি।\n\nআইন অনুযায়ী প্রয়োজন ছাড়া আমরা ব্যক্তিগতভাবে শনাক্তযোগ্য কোনো তথ্য প্রকাশ্যে বা তৃতীয় পক্ষের সাথে শেয়ার করি না।\n\nআমাদের অ্যাপটি বাহ্যিক সাইটগুলির সাথে লিঙ্ক হতে পারে যা আমাদের দ্বারা পরিচালিত নয়। দয়া করে সচেতন থাকুন যে এই সাইটগুলির বিষয়বস্তু এবং অনুশীলনের ওপর আমাদের কোনও নিয়ন্ত্রণ নেই এবং তাদের সংশ্লিষ্ট গোপনীয়তা নীতিগুলির জন্য আমরা দায়বদ্ধতা গ্রহণ করতে পারি না।</string>
+    <string name="terms_conditions">নিয়ম ও শর্তাবলী</string>
+    <string name="licenses">লাইসেন্স</string>
+    <string name="no_email_app">কোনো ইমেল অ্যাপ্লিকেশন ইনস্টল করা নেই।</string>
+    <string name="app_not_published">অ্যাপটি এখনও গুগল প্লে-তে প্রকাশিত হয়নি।</string>
+
+    <!-- Others -->
+    <string name="phone">ফোন</string>
+    <string name="search_recent_calls">সাম্প্রতিক কল খুঁজুন</string>
+    <string name="analyze_number">নম্বর বিশ্লেষণ করুন</string>
+    <string name="enter_number_ai">স্মার্ট AI দিয়ে বিশ্লেষণ করতে একটি নম্বর লিখুন</string>
+    <string name="version">ভার্সন ১.০</string>
+    <string name="about_description">AI ফিচার সহ প্রফেশনাল কন্টাক্ট ম্যানেজমেন্ট।</string>
+</resources>
