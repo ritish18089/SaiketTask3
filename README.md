@@ -106,45 +106,50 @@ The application follows the MVVM (Model–View–ViewModel) architecture to sepa
 - **ViewModel Layer:** Business Logic,Search Logic,Language Management,Theme Management
 - **Repository Layer:** Contacts Repository,Call History Repository,Favorites Repository
 - **Android Framework:** Contacts Provider,Call Log Provider,SharedPreferences,Intents,MediaStore
-<img src="https://github.com/ritish18089/SmartContacts/blob/main/smaw.png" width="1000px" >
+<img src="https://github.com/ritish18089/SaiketTask3/blob/main/smaw.png"  height="1000px" width="1000px" >
 
 ## 🎯  Application Work Flow
-<img src="https://github.com/ritish18089/SaiketTask2/blob/main/aaga.png" height="1000px" width="1000px" >
+<img src="https://github.com/ritish18089/SaiketTask3/blob/main/sawer.png" height="1000px" width="1000px" >
 
 ## 🧪 Testing Strategy
 ### Functional Testing
-- User Registration
-- Login
-- Logout
-- Gallery Loading
-- Camera Functionality
-- Image Editing
-- Favorites
-- Theme Switching
+- Contact retrieval
+- Add/Edit/Delete contacts
+- Search functionality
+- Favorites management
+- Call history retrieval
+- Block/Unblock contacts
+- Theme switching
+- Language switching
+- Share contacts
+- Dial pad functionality
 
 ### UI Testing
-- Responsive Layout
-- Dark & Light Theme
-- Navigation Testing
-- Screen Rotation
+- Responsive layouts
+- Navigation testing
+- Material Design consistency
+- Dark/Light theme validation
 
-### Integration Testing
-- Firebase Authentication
-- Firestore Database
-- CameraX
-- MediaStore
+### Permission Testing
+- READ_CONTACTS
+- WRITE_CONTACTS
+- CALL_PHONE
+- READ_CALL_LOG
+- WRITE_CALL_LOG
+- CAMERA
+- READ_MEDIA_IMAGES
+
+### Compatibility Testing
+- Android 8.0+
+- Multiple screen sizes
+- Portrait orientation
 
 ### Performance Testing
-- Gallery Loading Speed
-- Image Preview Performance
-- RecyclerView Scrolling
-- Memory Usage
-
-### User Acceptance Testing
-- Easy Navigation
-- Editing Workflow
-- Camera Operations
-- Profile Management
+- Contact loading speed
+- Search response
+- Smooth scrolling
+- Memory usage
+- App startup time
 
 ## 📸 Screenshots
 ### 🚀 Splash Screen
@@ -191,20 +196,21 @@ The application follows the MVVM (Model–View–ViewModel) architecture to sepa
 
 ## ⚙ Installation
 ### Prerequisites
-- Android Studio Hedgehog or above
-- JDK 17
-- Android SDK 34+
-- Firebase Project
-- google-services.json
+- Android Studio Hedgehog or newer
+- Android SDK 24+
+- JDK 17 or higher
+- Android Device or Emulator
 
 ### Steps
-- **Clone the repository:** git clone https://github.com/ritish18089/SaiketTask2.git
+- **Clone the repository:** git clone https://github.com/ritish18089/SaiketTask3.git
 - Open the project in Android Studio.
-- Add google-services.json to the app/ folder.
-- Sync Gradle.
-- Build the project.
-- Run the application on an emulator or Android device.
+- Sync Gradle dependencies.
+- Connect an Android device or start an emulator.
+- **Build the project:** Build > Make Project
+- **Run the application:** Run > Run 'app'
+- **Grant the required permissions:** Contacts,Phone,Call Logs,Camera (for profile photo),Photos/Gallery
+- Start using Smart Contacts to manage contacts, calls, favorites, and settings efficiently.
 
 ## 📱Download APK
-Click below to download the latest version of GalleryEditor
-[APK File](https://github.com/ritish18089/SaiketTask2/releases/download/v1.0.0/GalleryEditor.apk)
+Click below to download the latest version of SmartContacts
+[APK File](https://github.com/ritish18089/SaiketTask3/releases/download/v1.0.0/SmartContacts.apk)
