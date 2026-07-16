@@ -152,47 +152,51 @@ The application follows the MVVM (Model–View–ViewModel) architecture to sepa
 - App startup time
 
 ## 📸 Screenshots
-### 🚀 Splash Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/1.jpeg"  height="500px"></p>
+### Splash Screen
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/1.jpeg"  height="500px"></p>
 
-### 🔐 Login Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/2.jpeg"  height="500px"></p>
+### Home Screen (Contacts)
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/2.jpeg"  height="500px"></p>
 
-### 📝 Signup Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/3.jpeg"  height="500px"></p>
+### Favorites Screen
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/3.jpeg"  height="500px"></p>
 
-### 🏠 Home Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/4.jpeg"  height="500px"></p>
+### Call History Screen
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/4.jpeg"  height="500px"></p>
 
-### 🖼️ Gallery Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/5.jpeg"  height="500px"></p>
+### Dial Pad
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/5.jpeg"  height="500px"></p>
 
-### 🔍 Image Preview
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/6.jpeg"  height="500px"></p>
+### Contact Details
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/6.jpeg"  height="500px"></p>
 
-### ✂️ Crop Tool
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/7.jpeg"  height="500px"></p>
+### Edit Contact
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/7.jpeg"  height="500px"></p>
 
-### 🎚️ Adjust Tool
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/8.jpeg"  height="500px"></p>
+### Add Contact
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/8.jpeg"  height="500px"></p>
 
-### 🖼️ Frame Tool
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/9.jpeg"  height="500px"></p>
+### Settings
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/9.jpeg"  height="500px"></p>
 
-### ✏️ Markup Tool
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/10.jpeg"  height="500px"></p>
+### Blocked Numbers
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/10.jpeg"  height="500px"></p>
 
-### ⭐ Favorites Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/11.jpeg"  height="500px"></p>
+### AI Spam Detection
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/11.jpeg"  height="500px"></p>
 
-### 📷 Camera Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/12.jpeg"  height="500px"></p>
+### Theme Selection
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/12.jpeg"  height="500px"></p>
 
-### 👤 Profile Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/13.jpeg"  height="500px"></p>
+### App Language Selection
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/13.jpeg"  height="500px"></p>
 
-### ℹ️ About App Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask2/blob/main/14.jpeg"  height="500px"></p>
+### About App
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/14.jpeg"  height="500px"></p>
+
+### Help & Feedback
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/15.jpeg"  height="500px"></p>
+
 
 ## ⚙ Installation
 ### Prerequisites
