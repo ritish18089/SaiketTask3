@@ -152,49 +152,49 @@ The application follows the MVVM (Model–View–ViewModel) architecture to sepa
 - App startup time
 
 ## 📸 Screenshots
-### Splash Screen
+### 📱 Splash Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/1.jpeg"  height="500px"></p>
 
-### Home Screen (Contacts)
+### 👥 Home Screen (Contacts)
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/2.jpeg"  height="500px"></p>
 
-### Favorites Screen
+### ⭐ Favorites Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/3.jpeg"  height="500px"></p>
 
-### Call History Screen
+### 📞 Call History Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/4.jpeg"  height="500px"></p>
 
-### Dial Pad
+### 🔢 Dial Pad
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/5.jpeg"  height="500px"></p>
 
-### Contact Details
+### 👤 Contact Details
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/6.jpeg"  height="500px"></p>
 
-### Edit Contact
+### ✏️ Edit Contact
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/7.jpeg"  height="500px"></p>
 
-### Add Contact
+### ➕ Add Contact
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/8.jpeg"  height="500px"></p>
 
-### Settings
+### ⚙️ Settings
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/9.jpeg"  height="500px"></p>
 
-### Blocked Numbers
+### 🚫 Blocked Numbers
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/10.jpeg"  height="500px"></p>
 
-### AI Spam Detection
+### 🤖 AI Spam Detection
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/11.jpeg"  height="500px"></p>
 
-### Theme Selection
+### 🎨 Theme Selection
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/12.jpeg"  height="500px"></p>
 
-### App Language Selection
+### 🌐 App Language Selection
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/13.jpeg"  height="500px"></p>
 
-### About App
+### ℹ️ About App
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/14.jpeg"  height="500px"></p>
 
-### Help & Feedback
+### 🔒 Help & Feedback
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask3/blob/main/15.jpeg"  height="500px"></p>
 
 
