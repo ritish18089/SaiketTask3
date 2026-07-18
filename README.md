@@ -215,6 +215,14 @@ The application follows the MVVM (Model–View–ViewModel) architecture to sepa
 - **Grant the required permissions:** Contacts,Phone,Call Logs,Camera (for profile photo),Photos/Gallery
 - Start using Smart Contacts to manage contacts, calls, favorites, and settings efficiently.
 
+## 🎯Future Enhancements
+- AI-powered Spam Call Detection
+- Cloud Backup & Restore
+- Smart Daily Activity Timer
+- Advanced Voice Assistant Integration
+- Call Analytics Dashboard
+- Biometric Authentication (Fingerprint/Face Unlock)
+
 ## 📱Download APK
 Click below to download the latest version of SmartContacts
 [APK File](https://github.com/ritish18089/SaiketTask3/releases/download/v1.0.0/SmartContacts.apk)
