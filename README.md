@@ -216,7 +216,6 @@ The application follows the MVVM (Model–View–ViewModel) architecture to sepa
 - Start using Smart Contacts to manage contacts, calls, favorites, and settings efficiently.
 
 ## 🎯Future Enhancements
-- AI-powered Spam Call Detection
 - Cloud Backup & Restore
 - Smart Daily Activity Timer
 - Advanced Voice Assistant Integration
